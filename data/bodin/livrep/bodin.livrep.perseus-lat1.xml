@@ -31,7 +31,7 @@
           <change who="http://papyri.info/editor/users/balmas">Converted from doc to TEI</change>
       </revisionDesc>
    </teiHeader>
-   <text n="urn:cts:psciTemp:bodin.livrep.perseus-lat1" xml:lang="lat">
+   <text xml:lang="lat">
       <body>
          <div type="edition" xml:space="preserve" n="urn:cts:pdlpsci:bodin.livrep.perseus-lat1">
             <div n="1" type="textpart" subtype="book">

@@ -53,7 +53,7 @@
           <change who="http://papyri.info/editor/users/balmas">Converted from doc to TEI</change>
       </revisionDesc>
    </teiHeader>
-   <text n="urn:cts:pdlpsci:bodin.livrep.perseus-fre1" xml:lang="fre">
+   <text xml:lang="fre">
       <body>
          <div type="edition" xml:space="preserve" n="urn:cts:pdlpsci:bodin.livrep.perseus-fre1">
             <div n="1" type="textpart" subtype="book">
