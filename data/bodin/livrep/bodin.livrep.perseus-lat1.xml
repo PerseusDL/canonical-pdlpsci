@@ -33,7 +33,7 @@
    </teiHeader>
    <text n="urn:cts:psciTemp:bodin.livrep.perseus-lat1" xml:lang="lat">
       <body>
-         <div type="edition" xml:space="preserve">
+         <div type="edition" xml:space="preserve" n="urn:cts:pdlpsci:bodin.livrep.perseus-lat1">
             <div n="1" type="textpart" subtype="book">
                <head>THE <choice>
                      <sic>FIRST</sic>
