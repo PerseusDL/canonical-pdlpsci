@@ -1,3 +1,7 @@
+[![Hook Status](http://ci.perseids.org/api/rest/v1.0/code/PerseusDL/canonical-pdlpsci/status.svg?branch=refs%2Fheads%2Fmaster)](http://ci.perseids.org/repo/PerseusDL/canonical-pdlpsci)
+[![Hook Coverage](http://ci.perseids.org/api/rest/v1.0/code/PerseusDL/canonical-pdlpsci/coverage.svg?branch=refs%2Fheads%2Fmaster)](http://ci.perseids.org/repo/PerseusDL/canonical-pdlpsci)
+[![Hook Texts](http://ci.perseids.org/api/rest/v1.0/code/PerseusDL/canonical-pdlpsci/cts.svg?branch=refs%2Fheads%2Fmaster)](http://ci.perseids.org/repo/PerseusDL/canonical-pdlpsci)
+
 Canonical - Political Science
 =========
 
