@@ -66,6 +66,7 @@
                  who="http://data.perseus.org/sosol/users/Bridget%20Almas">Added pb tags and xml formattingXML Markup Change&#xD;
 </change>
           <change who="http://papyri.info/editor/users/balmas">Converted from doc to TEI</change>
+         <change who="Zachary Shufro">Corrected spelling through the end of chapter one</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="fre">
@@ -77,7 +78,7 @@
                <div n="1" type="textpart" subtype="chapter">
                   <head><hi rend="italic">CHAPITRE I</hi> ? Quelle est la fin principale de la
                      Republique bien ordonnee</head>
-                  <p> REPVBLIQVE est un droit gouvernement de plusieurs mesnages, &amp; de ce qui
+                  <p> REPUBLIQUE est un droit gouvernement de plusieurs mesnages, &amp; de ce qui
                      leur est commun, avec puissance souveraine. Nous mettons cette definition en
                      premier lieu, par ce qu’il faut chercher en toutes choses la fin principale:
                      &amp; puis apres les moyens d’y parvenir. Or la definition n'est autre chose
@@ -363,128 +364,128 @@
                   </p>
                </div>
                <div n="2" type="textpart" subtype="chapter">
-                  <head><hi rend="italic">CHAP.II.</hi> ? DV MESNAGE, ET LA DIFFERENCE ENTRE LA
+                  <head><hi rend="italic">CHAP.II.</hi> ? DU MESNAGE, ET LA DIFFERENCE ENTRE LA
                      REPUBLIQE &amp; LA FAMILLE</head>
-                  <p> MESNAGE est vn droit gouuernement de plusieurs sugets, sous l'obeissance d’vn
+                  <p> MESNAGE est un droit gouvernement de plusieurs sugets, sous l'obeissance d’un
                      chef de famille, &amp; de ce qui luy est propre. La seconde partie de la
-                     definition de Republique que nous auons posee, touche la famille, qui est la
+                     definition de Republique que nous avons posee, touche la famille, qui est la
                      vraye source &amp; origine de toute Republique, &amp; membre principal
-                     d’icelle. Et par ainsi Xenophon &amp; Aristote, sans occasion, à mon aduis, ont
-                     diuisé l'oeconomie de la police: ce qu’on ne peut faire sans demembrer la
-                     partie principale du total, &amp; bastir vne ville fans maisons, ou bien par
-                     mesme moyen il falloit faire vne science à part des corps &amp; colleges, qui
+                     d’icelle. Et par ainsi Xenophon &amp; Aristote, sans occasion, à mon advis, ont
+                     divisé l'oeconomie de la police: ce qu’on ne peut faire sans demembrer la
+                     partie principale du total, &amp; bastir une ville sans maisons, ou bien par
+                     mesme moyen il falloit faire une science à part des corps &amp; colleges, qui
                      ne sont ny familles, ny citez, &amp; sont neantmoins partie de la Republique.
-                     Mais les Iurisconsultes, &amp;: legislateurs, que nous deuons suiure, ont
+                     Mais les jurisconsultes, &amp; legislateurs, que nous devons suivre, ont
                      traitté les loix &amp; ordonnances de la police, des colleges, &amp; des
-                     familles en vne mesme science. toutefois ils n’ont pas pris l’œconomie comme
+                     familles en une mesme science. toutefois ils n’ont pas pris l’œconomie comme
                      Aristote, qui l’appelle science d’acquerir des biens, qui est commune aux corps
                      &amp; colleges aussi bien comme aux Republiques. Or nous entendons par la
-                     mesnagerie, le droit gouuernement de la famille, &amp; de la puissance que le
+                     mesnagerie, le droit gouvernement de la famille, &amp; de la puissance que le
                      chef de famille a sus les siens, de l'obeissance qui luy est deue, qui n’a
                      point esté touchee aux traittez d’Aristote, &amp; de Xenophon. Tout ainsi donc
                      que la famille bien conduitte, est la vraye image de la Republique, &amp; la
-                     puissance domestique semblable à la puissance souueraine:aussi est le droit
-                     gouuernement de la maison, le vray modelle du gouuernement de la Repub. Et tout
-                     ainsi que les membres chacun en particulier faisans leur deuoir, tout le corps
-                     se porte bien: aussi les familles estants bien gouuernees, la Repub. ira bien.
-                     Nous auons dit que Republique est vn droit gouuernement de plusieurs mesnages,
-                     &amp; de ce qui leur est commun, auec puissance souueraine. le mot de plusieurs
-                     ne peut estre fîgnifié par deux au cas qui s’offre, car la loy<note place="margin">l.Neratius.de verbor.signif.ff.</note>  veut du moins trois
-                     personnes pour faire vn college, &amp; autant pour faire vne famille, outre le
-                     chef de famille, soient enfans, ou esclaues, ou afranchis, ou gens libres qui
+                     puissance domestique semblable à la puissance souveraine:aussi est le droit
+                     gouvernement de la maison, le vray modelle du gouvernement de la Repub. Et tout
+                     ainsi que les membres chacun en particulier faisans leur devoir, tout le corps
+                     se porte bien: aussi les familles estants bien gouvernees, la Repub. ira bien.
+                     Nous avons dit que Republique est un droit gouvernement de plusieurs mesnages,
+                     &amp; de ce qui leur est commun, avec puissance souveraine. le mot de plusieurs
+                     ne peut estre sîgnifié par deux au cas qui s’offre, car la loy<note place="margin">l.Neratius.de verbor.signif.ff.</note>  veut du moins trois
+                     personnes pour faire un college, &amp; autant pour faire une famille, outre le
+                     chef de famille, soient enfans, ou esclaves, ou afranchis, ou gens libres qui
                      se soubmettent volontairement à l'obeissance du chef de mesnage, qui fait le
                      quatriesme, &amp; toutesfois membre<note place="margin">l.familiæ.eod.</note> de la famille. Et d’autant que les mesnages, corps &amp;
                      colleges, ensemble les Republiques, &amp; tout le genre humain periroit, fil
-                     n’eftoit repeuplé par mariages, il s'ensuit bien que la famille ne sera pas
+                     n’estoit repeuplé par mariages, il s'ensuit bien que la famille ne sera pas
                      accomplie de tout poinct sans la femme, qui pour ceste cause est appellee mere
                      de famille: tellement qu'il faut à ce compte cinq personnes du moins, pour
-                     accomplir vne famille entiere. Si donc il faut trois personnes pour faire vn
-                     college, &amp; autant pour vn mesnage, outre le chef de famille &amp; sa femme:
+                     accomplir une famille entiere. Si donc il faut trois personnes pour faire un
+                     college, &amp; autant pour un mesnage, outre le chef de famille &amp; sa femme:
                         <pb n="9"/> nous dirons par mesme raison, qu’il faut du moins trois mesnages
-                     pour faire vne Republique, qui seroit trois fois cinq pour trois mesnages
-                     parfaicts. Et a mon aduis que les anciens appelloient pour ceste cause vn
-                     peuple quinze personnes, comme dit Apulee, rapportans Ie nombre de quinze à
-                     trois familles parfaites. Autrement fil n’y a qu'vn mesnage, encores que le
+                     pour faire une Republique, qui seroit trois fois cinq pour trois mesnages
+                     parfaicts. Et a mon advis que les anciens appelloient pour ceste cause un
+                     peuple quinze personnes, comme dit Apulee, rapportans le nombre de quinze à
+                     trois familles parfaites. Autrement sil n’y a qu'un mesnage, encores que le
                      pere de famille eust trois cens femmes, &amp; six cens enfans, autant qu’en
-                     auoit Hermotimus Roy de Parthe, ou cinq cens esclaues, comme Crassus: s'ils
-                     sont tous sous la puissance d’vn chef de mesnage, ce n’est pas vn peuple, ny
-                     vne Republique, ains vn mesnage seulement, encore qu’il y eust plusieurs
-                     enfans, &amp; plusieurs esclaues, ou seruiteurs mariez ayans d’autres enfans,
-                     pourueu qu'ils soient tous en la puissance: d’vn chef, que la loy<note place="margin">l.pronuntiatio.§.familiæ.eod.</note>  appelle pere de
+                     avoit Hermotimus Roy de Parthe, ou cinq cens esclaves, comme Crassus: s'ils
+                     sont tous sous la puissance d’un chef de mesnage, ce n’est pas un peuple, ny
+                     vne Republique, ains un mesnage seulement, encore qu’il y eust plusieurs
+                     enfans, &amp; plusieurs esclaves, ou serviteurs mariez ayans d’autres enfans,
+                     pourveu qu'ils soient tous en la puissance: d’un chef, que la loy<note place="margin">l.pronuntiatio.§.familiæ.eod.</note>  appelle pere de
                      famille, ore qu’il fust au berceau. Et pour ceste cause les Hebrieux, qui
-                     monstrent tousiours la proprieté des choses par les noms, ont appelle famille
+                     monstrent tousjours la proprieté des choses par les noms, ont appelle famille
                      HEBREW TEXT, non pas pour ce que la famille contient mil personnes, comme dit
-                     vn Rabin, mais du mot HEBREW TEXT, qui signifie chef, seigneur, prince, nommant
+                     un Rabin, mais du mot HEBREW TEXT, qui signifie chef, seigneur, prince, nommant
                      la famille par le chef d’icelle. Maison dira peut estre, que trois corps &amp;
-                     colleges, ou plusieurs particuliers fans famille, peuuent aussi bien composer
-                     vne Republique, s’ils sont gouuernez auec puissance souueraine: il y a bien
+                     colleges, ou plusieurs particuliers sans famille, peuuent aussi bien composer
+                     une Republique, s’ils sont gouuernez avec puissance souveraine: il y a bien
                      apparence: &amp; toutefois ce n’est point Republique, veu que tout corps &amp;
                      college s'aneantist de soy mesme, s'il n’est reparé parles familles. Or la loy
                      dit, que le peuple ne meurt<note place="margin">l.proponebatur.de
-                        iudic.ff.</note>  iamais, &amp; tient que cent, voire mil ans apres, c’est
-                     le mesme peuple, encore que I'vsufruit laissé à la Republique, est reuni à la
+                        iudic.ff.</note>  jamais, &amp; tient que cent, voire mil ans apres, c’est
+                     le mesme peuple, encore que l'usufruit laissé à la Republique, est reuni à la
                      proprieté, qui autrement seroit inutile, cent ans apres:<note place="margin">l.
-                        an vsufrusctus.de vsufr.ff.</note>  car on presume, que tous ceux qui
-                     viuoient, meurent en cent ans, combien qu’ils soient immortels par succession,
-                     comme le nauire de Thesee, qui dura tant qu’on eut soin de le reparer. Mais
-                     tout ainsi que le nauire n’est plus que bois, sans forme de vaisseau, quand la
+                        an usufrusctus.de usufr.ff.</note>  car on presume, que tous ceux qui
+                     vivoient, meurent en cent ans, combien qu’ils soient immortels par succession,
+                     comme le navire de Thesee, qui dura tant qu’on eut soin de le reparer. Mais
+                     tout ainsi que le navire n’est plus que bois, sans forme de vaisseau, quand la
                      quille, qui soustient les costes, la proüe, la poupe, &amp; le tillac, sont
-                     ostez: aussi la Republique sans puissance souueraine, qui vnist tous les
-                     membres &amp; parties d’icelles, &amp; tous les mesnages &amp; colleges en vn
+                     ostez: aussi la Republique sans puissance souveraine, qui unist tous les
+                     membres &amp; parties d’icelles, &amp; tous les mesnages &amp; colleges en un
                      corps, n’est plus Republique. Et sans sortir de la similitude, tout ainsi que
-                     le nauire peut estre demembré en plusieurs pieces, ou bruslé du tout: aussi le
+                     le navire peut estre demembré en plusieurs pieces, ou bruslé du tout: aussi le
                      peuple peut estre escarté en plusieurs endroits, ou du tout esteint, encore que
                      la ville demeure en son entier: car ce n’est pas la ville, ny les personnes qui
-                     font la cité: mais l'vnion d’vn peuple fous vne seigneurie souueraine, encore
+                     font la cité: mais l'union d’un peuple sous une seigneurie souveraine, encore
                      qu’il n’y ayt que trois mesnages. Car comme le ciron ou la formi font aussi
-                     bien nombrez entre les animaux, comme les Elephans: aussi le droit gouuernement
-                     de trois familles auec puissance souueraine, fait aussi bien vne Republique,
-                     comme d’vne grande seigneurie. Et la seigneurie de Rhaguse n’est pas moins
+                     bien nombrez entre les animaux, comme les Elephans: aussi le droit gouvernement
+                     de trois familles avec puissance souveraine, fait aussi bien une Republique,
+                     comme d’une grande seigneurie. Et la seigneurie de Rhaguse n’est pas moins
                      Republique, que celle des Turcs, ou des Tartares. Et tout ainsi qu’au
-                     denombrement des maisons, vn petit mesnage est aussi bien compté pour vn feu,
-                     que la plus grande &amp; la plus riche maison de là cité: <pb n="10"/> aussi vn
-                     petit Roy est autant souuerain, que le plus grand Monarque de la terre: car vn
-                     grand royaume n’est autre chose, disoit Cassiodore, que vne grande Republique
-                     sous la garde d’vn chef souuerain. Et par ainsi de trois mesnages, si l’vn des
-                     chefs de mesnage a puissance souueraine sus les deux autres: ou les deux
+                     denombrement des maisons, un petit mesnage est aussi bien compté pour un feu,
+                     que la plus grande &amp; la plus riche maison de là cité: <pb n="10"/> aussi un
+                     petit Roy est autant souverain, que le plus grand Monarque de la terre: car un
+                     grand royaume n’est autre chose, disoit Cassiodore, que une grande Republique
+                     sous la garde d’un chef souverain. Et par ainsi de trois mesnages, si l’un des
+                     chefs de mesnage a puissance souveraine sus les deux autres: ou les deux
                      ensemble sus le tiers, ou les trois en nom collectif sur chacun en particulier,
-                     c’est aussi bien Republique, comme fil y auoit six millions de sugets. Et par
-                     ce moyen il se pourra faire, qu’vne famille fera plus grande qu’vne Republique,
+                     c’est aussi bien Republique, comme sil y avoit six millions de sugets. Et par
+                     ce moyen il se pourra faire, qu’une famille fera plus grande qu’une Republique,
                      &amp; mieux peuplee: comme lon dict du bon pere de famille Ælius Tuberon, qui
-                     estoit chef de famille de seize enfans tous mariez issus de luy, qu’il auoit
-                     tous en fa puissance, auec leurs enfans &amp; seruiteurs demeurans auec luy en
+                     estoit chef de famille de seize enfans tous mariez issus de luy, qu’il avoit
+                     tous en sa puissance, avec leurs enfans &amp; serviteurs demeurans auec luy en
                         mesme<note place="margin">Plutar in Æmylio.</note>  logis. Et au contraire,
                      la plus grande cité ou monarchie, &amp; la mieux peuplee qui soit sur la terre,
                      n’est pas plus Republique, ny cité que la plus petite: quoy que dist Aristote,
-                     que la ville de Babylone, qui auoit trois iournees<note place="margin">Herodo.lib.3.</note>  de tour en quarré, estoit vne nation plustost qu’vne
-                     Republique, qui ne doit auoir, à son dire, que dix mil citoyens pour le plus:
-                     comme fil estoit inconuenient qu’vne, voire cent nations diuerses fous vne
-                     puissance souueraine, feissent vne Republique. Or si l’opinion d'Aristote auoit
+                     que la ville de Babylone, qui avoit trois journees<note place="margin">Herodo.lib.3.</note>  de tour en quarré, estoit une nation plustost qu’une
+                     Republique, qui ne doit avoir, à son dire, que dix mil citoyens pour le plus:
+                     comme sil estoit inconvenient qu’une, voire cent nations diverses sous une
+                     puissance souveraine, feissent une Republique. Or si l’opinion d'Aristote avoit
                      lieu, la Republique Romaine, qui a esté la plus illustre qui fut onques, n'eust
-                     pas mérité le nom de Republique, veu qu’au temps de sa fondation elle n’auoit
-                     que trois mil cito yens, &amp; sous l’Empereur Tibere il s'en trouua quinze
+                     pas mérité le nom de Republique, veu qu’au temps de sa fondation elle n’avoit
+                     que trois mil citoyens, &amp; sous l’Empereur Tibere il s'en trouva quinze
                      millions &amp; cent dix mil, espars en tout l’Empire, sans y comprendre les
-                     esclaues, qui estoient pour le moins dix pour vn, &amp; sans compter les
-                     alliez, ny les autres peuples libres, aux enclaues de l’Empire, qui auoient
-                     leur estat à part en tiltre de souueraineté: qui est le vray fondement, &amp;
-                     le piuot, sur lequel tourne l'estat d’vne cité, &amp; de laquelle dependent
-                     tous les magistrats, loix, &amp; ordonnances, &amp; qui est la feule vnion,
+                     esclaves, qui estoient pour le moins dix pour un, &amp; sans compter les
+                     alliez, ny les autres peuples libres, aux enclaves de l’Empire, qui avoient
+                     leur estat à part en tiltre de souveraineté: qui est le vray fondement, &amp;
+                     le pivot, sur lequel tourne l'estat d’une cité, &amp; de laquelle dependent
+                     tous les magistrats, loix, &amp; ordonnances, &amp; qui est la seule union,
                      &amp; liaison des familles, corps, &amp; colleges, &amp; de tous les
-                     particuliers en vn corps parfaict de Republique, soit que tous les sugets
-                     d’icelle soient enclos en vne petite ville, ou en quelque petit territoire:
-                     comme la Republique de Schunits, l'vn des cantons de Suisse, qui n’est pas de
+                     particuliers en un corps parfaict de Republique, soit que tous les sugets
+                     d’icelle soient enclos en une petite ville, ou en quelque petit territoire:
+                     comme la Republique de Schunits, l'un des cantons de Suisse, qui n’est pas de
                      si grand estendue, que plusieurs fermes de ce Royaume, ne soient de plus grand
-                     reuenu: soit que la Republique ayt plusieurs bailliages, ou prouinces: comme le
-                     Royaume de Perse, qui auoit six vingts gouuernemens, &amp; celuy d’Æthiopie,
-                     qui en a cinquante, que Paul Ioue fans propos appelle royaumes: &amp;
-                     toutesfois il n’y a qu’vn Roy, vn Royaume, vne Monarchie, vne Republique, sous
-                     la puissance souueraine du grand Negus. Mais outre la sonuetaineté, il faut
+                     revenu: soit que la Republique ayt plusieurs bailliages, ou provinces: comme le
+                     Royaume de Perse, qui auoit six vingts gouvernemens, &amp; celuy d’Æthiopie,
+                     qui en a cinquante, que Paul Joue sans propos appelle royaumes: &amp;
+                     toutesfois il n’y a qu’un Roy, un Royaume, une Monarchie, une Republique, sous
+                     la puissance souveraine du grand Negus. Mais outre la souveraineté, il faut
                      qu’il y ait quelque chose de commun, &amp; de public: comme le domaine public,
-                     le thresor public, le pourpris de la cité, les rues, les murailles, les places,
-                     les temples, les marchez, les vsages, les loix, les coustumes, la iustice, les
+                     le tresor public, le pourpris de la cité, les rues, les murailles, les places,
+                     les temples, les marchez, les usages, les loix, les coustumes, la justice, les
                      loyers, les peines, &amp; autres choses semblabes, qui sont ou communes, ou
-                     publiques, ou l’vn &amp; l’autre ensemble. car ce n’est pas Repub. s'il n’y a
-                     rien de pu- <pb n="21"/> E droit gouuernement'du pere &amp; des enfans gift à
+                     publiques, ou l’un &amp; l’autre ensemble. car ce n’est pas Repub. s'il n’y a
+                     rien de public. <pb n="21"/> E droit gouuernement'du pere &amp; des enfans gift à
                      bien vser de la puissance, que Dieu a donné au pere sur ses en- fans propres,
                      ou la loy sur les enfans adoptez, &amp; en l’obeissance, amour, &amp; reuerence
                      des enfans enuers les peres. Le mot de puissance, est propre à tous ceux qui
