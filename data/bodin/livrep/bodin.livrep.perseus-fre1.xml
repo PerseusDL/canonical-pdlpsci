@@ -67,6 +67,7 @@
 </change>
           <change who="http://papyri.info/editor/users/balmas">Converted from doc to TEI</change>
          <change who="Zachary Shufro">Corrected spelling through the end of chapter one</change>
+         <change who="Zachary Shufro"> Corrected spelling through the end of chapter two</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="fre">
@@ -390,11 +391,13 @@
                      se porte bien: aussi les familles estants bien gouvernees, la Repub. ira bien.
                      Nous avons dit que Republique est un droit gouvernement de plusieurs mesnages,
                      &amp; de ce qui leur est commun, avec puissance souveraine. le mot de plusieurs
-                     ne peut estre sîgnifié par deux au cas qui s’offre, car la loy<note place="margin">l.Neratius.de verbor.signif.ff.</note>  veut du moins trois
+                     ne peut estre sîgnifié par deux au cas qui s’offre, car la loy<note place="margin">
+                        l.Neratius.de verbor.signif.ff.</note>  veut du moins trois
                      personnes pour faire un college, &amp; autant pour faire une famille, outre le
                      chef de famille, soient enfans, ou esclaves, ou afranchis, ou gens libres qui
                      se soubmettent volontairement à l'obeissance du chef de mesnage, qui fait le
-                     quatriesme, &amp; toutesfois membre<note place="margin">l.familiæ.eod.</note> de la famille. Et d’autant que les mesnages, corps &amp;
+                     quatriesme, &amp; toutesfois membre<note place="margin">l.familiæ.
+                        eod.</note> de la famille. Et d’autant que les mesnages, corps &amp;
                      colleges, ensemble les Republiques, &amp; tout le genre humain periroit, fil
                      n’estoit repeuplé par mariages, il s'ensuit bien que la famille ne sera pas
                      accomplie de tout poinct sans la femme, qui pour ceste cause est appellee mere
@@ -411,7 +414,8 @@
                      sont tous sous la puissance d’un chef de mesnage, ce n’est pas un peuple, ny
                      vne Republique, ains un mesnage seulement, encore qu’il y eust plusieurs
                      enfans, &amp; plusieurs esclaves, ou serviteurs mariez ayans d’autres enfans,
-                     pourveu qu'ils soient tous en la puissance: d’un chef, que la loy<note place="margin">l.pronuntiatio.§.familiæ.eod.</note>  appelle pere de
+                     pourveu qu'ils soient tous en la puissance: d’un chef, que la loy<note place="margin">
+                        l.pronuntiatio.§.familiæ.eod.</note>  appelle pere de
                      famille, ore qu’il fust au berceau. Et pour ceste cause les Hebrieux, qui
                      monstrent tousjours la proprieté des choses par les noms, ont appelle famille
                      HEBREW TEXT, non pas pour ce que la famille contient mil personnes, comme dit
@@ -457,7 +461,8 @@
                         mesme<note place="margin">Plutar in Æmylio.</note>  logis. Et au contraire,
                      la plus grande cité ou monarchie, &amp; la mieux peuplee qui soit sur la terre,
                      n’est pas plus Republique, ny cité que la plus petite: quoy que dist Aristote,
-                     que la ville de Babylone, qui avoit trois journees<note place="margin">Herodo.lib.3.</note>  de tour en quarré, estoit une nation plustost qu’une
+                     que la ville de Babylone, qui avoit trois journees<note place="margin">Herodo.
+                        lib.3.</note>  de tour en quarré, estoit une nation plustost qu’une
                      Republique, qui ne doit avoir, à son dire, que dix mil citoyens pour le plus:
                      comme sil estoit inconvenient qu’une, voire cent nations diverses sous une
                      puissance souveraine, feissent une Republique. Or si l’opinion d'Aristote avoit
@@ -487,91 +492,153 @@
                      publiques, ou l’un &amp; l’autre ensemble. car ce n’est pas Repub. s'il n’y a
                      rien de public. <pb n="11" /> Il se peut faire aussi que la pluspart des heritages soient communs à tous 
                      en general, &amp; la moindre partie propre à chacun en particulier, comme 
-                     en la diuision du territoire, que Romule occupa au tour de la ville de
-                     Rome qu’il auoit fondee, tout le plat pais n’auoit en pourpris que dix-
-                     huit mil iournaux<note place="margin">Dionys. Halicarnass.lib.2.</note> de terre, qu'il diuisa en trois parties egales: assignant
-                     vn tiers pour les frais des sacrifices, l’autre pour le domaine de la Republique,
+                     en la division du territoire, que Romule occupa au tour de la ville de
+                     Rome qu’il avoit fondee, tout le plat pais n’avoit en pourpris que dix-
+                     huit mil journaux<note place="margin">Dionys. Halicarnass.
+                        lib.2.</note> de terre, qu'il divisa en trois parties egales: assignant
+                     un tiers pour les frais des sacrifices, l’autre pour le domaine de la Republique,
                      le reste fut parti à trois mil citoyens, ramassez de toutes pieces, à
-                     chacun deux iournaux: lequel partage demeura long temps en quelque
+                     chacun deux journaux: lequel partage demeura long temps en quelque
                      contrepoix d’equalité: car mesme le dictateur Cincinnat, deux cens soixante
-                     ans apres,n’auoit<note place="marg">Plin.lib.7.</note> que deux iournaux que luymesme labouroit. Mais
-                     en quelque forte qu’on diuise les terres, il ne se peut faire que tous les
+                     ans apres,n’avoit<note place="marg">Plin.lib.7.</note> que deux journaux que luymesme labouroit. Mais
+                     en quelque sorte qu’on divise les terres, il ne se peut faire que tous les
                      biens soient communs, comme Platon vouloit en sa premiere Republique,
-                     iusques aux femmes &amp; enfans, affin de bannir de sa cité ces deux
-                     mots TIEN &amp; MIEN, qui estoient, à son aduis, cause de tous les maux
-                     &amp; ruines qui aduiennent aux Republiques. Or il ne iugeoit pas que si
-                     cela auoit lieu, la feule marque de Republique seroit perdue : car il n’y a
+                     jusques aux femmes &amp; enfans, affin de bannir de sa cité ces deux
+                     mots TIEN &amp; MIEN, qui estoient, à son advis, cause de tous les maux
+                     &amp; ruines qui adviennent aux Republiques. Or il ne jugeoit pas que si
+                     cela avoit lieu, la seule marque de Republique seroit perdue : car il n’y a
                      point de chose publique, s’il n'ya quelque chose de propre: &amp; ne se peut
                      imaginer qu’il y ait rien commun, s'il n’y a rien particulier: non plus que
                      si tous les citoyens estoient Roys, il n’y auroit point de Roy : ny d’harmonie
-                     aucune, si les accords diuers, doucement entremeslez, qui rendent
+                     aucune, si les accords divers, doucement entremeslez, qui rendent
                      l’harmonie plaisante, estoient reduits à mesme son. Combiem que telle Republique
                      seroit directement contraire à la loy de Dieu &amp; de nature, qui deteste
-                     non seulement les incestes, adulteres, &amp; paricides ineuitables, si les femmes
-                     estoient communes: ains aussi de rauir, ni mesme de conuoiter rien qui soit
-                     d’autruy. ou il appert euidemment, que les Republiques sont aussi
+                     non seulement les incestes, adulteres, &amp; paricides inevitables, si les femmes
+                     estoient communes: ains aussi de ravir, ni mesme de convoiter rien qui soit
+                     d’autruy. ou il appert evidemment, que les Republiques sont aussi
                      ordonnees de Dieu, pour rendre à la Republique ce qui est public, &amp; à
-                     chacun ce qui luy est propre: ioint aussi que telle communaute de toutes choses
-                     est impossible, &amp; incompatible auec le droict des familles. car si la
+                     chacun ce qui luy est propre: joint aussi que telle communaute de toutes choses
+                     est impossible, &amp; incompatible avec le droict des familles. car si la
                      famille &amp; la citem. le propre &amp; le commun, le public &amp; le particulier sont
                      confus, il n’y a ny Republique, ny famille. Aussi Platon excellent en toute
-                     autre chose, apres auoir veu les inconueniens &amp; absurditez notables,
-                     que tiroit aptes soy telle communauté, s'en est fagement departi: renonçant
+                     autre chose, apres avoir veu les inconveniens &amp; absurditez notables,
+                     que tiroit aptes soy telle communauté, s'en est sagement departi: renonçant
                      taisiblement à la première Republique, pour donner lieu à la seconde.
                      Et quoy qu’on die des Massagetes, que tout leur estoit commun,
-                     si est-ce qu’ils auoient la coupe, &amp; le cousteau, chacun à part soy, &amp; par
+                     si est-ce qu’ils avoient la coupe, &amp; le cousteau, chacun à part soy, &amp; par
                      consequent les habits &amp; vestements. autrement toufiours le plus fort
                      eust desrobé le plus foible luy ostant ses robes, lequel mot signifie assez
                      en nostre ligue, que les vestemens ont toufiours este propres à chacun,
                      estant celuy qui desrobe appelle larron. Tout ainsi donc que la Republique
-                     est vn droit gouuernement de plusieurs familles de ce qui leur
-                     est commun, auec puissance souueraine: aussi la famille est vn droit
-                     gouuernement de plusieurs sugets sous, l’obeissance d'vn chef de famille,
+                     est un droit gouvernement de plusieurs familles de ce qui leur
+                     est commun, avec puissance souveraine: aussi la famille est un droit
+                     gouvernement de plusieurs sugets sous, l’obeissance d'un chef de famille,
                      &amp; de ce qui luy est propre. &amp; en cela gist la vraye difference de la Republique 
-                     <pb n="12" /> &amp; de la famille. car les chefs de famille ont le gouuernement de
-                     ce qui leur est propre : encores que cha¬cune famille soit bien fouuent, &amp;
+                     <pb n="12" /> &amp; de la famille. car les chefs de famille ont le gouvernement de
+                     ce qui leur est propre : encores que chacune famille soit bien souvent, &amp;
                      quasi par tout obligee, d’apporter, &amp; contribuer quelque chose de
-                     particulier eh commun, soit par forme de tailles, ou de peages, ou d'imposts
-                     extraordinaires. Et se peut faire que tousles sugets d'vne Republique
-                     viueront en commun, comme il se faisoit anciennement en Crete,&amp; en
-                     Lacedemonne, où les chefs de famille viuoient en compagnies de XV. ou
+                     particulier en commun, soit par forme de tailles, ou de peages, ou d'imposts
+                     extraordinaires. Et se peut faire que tousles sugets d'une Republique
+                     viveront en commun, comme il se faisoit anciennement en Crete,&amp; en
+                     Lacedemonne, où les chefs de famille vivoient en compagnies de XV. ou
                      XX. &amp; les femmes en leurs mesnages, &amp; les enfans ensemble. Et mesmes
                      en la Republique ancienne de  Candie, tous les citoyens, hommes &amp;
-                     femmes, ieunes &amp; vieux, riches &amp; pauures mangeoient &amp; beuuoient
-                     tousiours ensemble: &amp; neantmoins chacun auoit ses biens a part &amp;
+                     femmes, jeunes &amp; vieux, riches &amp; pauvres mangeoient &amp; beuvoient
+                     tousiours ensemble: &amp; neantmoins chacun avoit ses biens a part &amp;
                      contribuoit chacun en commun pour sa despense : ce que les Anabaptistes
                      vouloient pratiquer, &amp; commencerent en la ville de Munstre: à la charge
                      que tous biens seroient communs, horsmis les femmes, &amp; les vestements:
                      pensans mieux entretenir l'amitié &amp; concorde mutuelle entre
-                     eux: mais ils se trouuerent bien loing de leur compte: car tant s’en faut que
+                     eux: mais ils se trouverent bien loing de leur compte: car tant s’en faut que
                      ceux là qui veulent que tout soit commun, ayent oste les querelles &amp;
-                     inimitiez, que mesmes ils chassent l'amour d d'entre le mari &amp; la femme,
-                     l'affection des peres enuers les enfans, la reuerence des enfans enuers les peres,
-                     &amp; la bienueillance des parens entr’eux, ostant la proximité de sang,
-                     qui les vnit d’vn plus estroit lien qui peut estre. car on scait assez qu'il n'y
+                     inimitiez, que mesmes ils chassent l'amour d'entre le mari &amp; la femme,
+                     l'affection des peres envers les enfans, la reverence des enfans envers les peres,
+                     &amp; la bienveillance des parens entr’eux, ostant la proximité de sang,
+                     qui les unit d’un plus estroit lien qui peut estre. car on scait assez qu'il n'y
                      a point d’affection amiable, en ce qui est commun a tous: &amp; que la
-                     com¬munauté tire apres soy tousiours des haines &amp; querelles, comme dit la
-                     loy. <note place="marg">l.cum pater.5.dulcissimis de legat. 2. l. 2. quando &amp; quidbus quarta pars C.l. in re communi. vtbanorum prædior. l. sancimus. (.sinautem, de donat. C. l. Lucius.).Caius, de legat 2.</note> encores plus s'abusent ceux là, qui pensent, que par le moyen de la
+                     communauté tire apres soy tousjours des haines &amp; querelles, comme dit la
+                     loy. <note place="marg">l.cum pater.5.dulcissimis de legat. 2. l. 2. quando &amp; 
+                        quidbus quarta pars C.l. in re communi. vtbanorum prædior. l. sancimus. 
+                        (.sinautem, de donat. C. l. Lucius.).Caius, de legat 2.</note> encores plus s'abusent ceux là, qui pensent, que par le moyen de la
                      communauté, les personnes &amp; les biens communs seroient plus soigneusement
                      traittez: car on voit ordinairement les choses communes &amp;
-                     publiques mesprisees<note place="marg">l.2.quando &amp; quibus quarta C.</note> d’vn chacun, si ce n'est pour en tirer quelque
+                     publiques mesprisees<note place="marg">l.2.quando &amp; quibus quarta 
+                        C.</note> d’un chacun, si ce n'est pour en tirer quelque
                      profit en particulier: d'autant que la nature d'amour est telle, que plus elle
-                     est commune, &amp; moins a de vigueur: &amp; tout ainsi que les gros fleuues,
-                     qui portent les grands fardeaux, estans diuisez, ne portent rien dutout:
+                     est commune, &amp; moins a de vigueur: &amp; tout ainsi que les gros fleuves,
+                     qui portent les grands fardeaux, estans divisez, ne portent rien dutout:
                      aussi l’amour espars à toutes personnes, &amp; à toutes choses, perd sa force
-                     &amp; fa vertu. Or mesnage, &amp; droit gouuernement d’iceluy fait la
-                     discretion &amp; diuision des biens, des femmes, des enfans, des seruiteurs, d’vne
+                     &amp; sa vertu. Or mesnage, &amp; droit gouvernement d’iceluy fait la
+                     discretion &amp; division des biens, des femmes, des enfans, des serviteurs, d’une
                      famille à l'autre, &amp; de ce qui est propre en particulier, à ce qui leur est
                      commun en general, c’est à dire, au bien public. Et mesmes les
                      magistrats en toute Republique bien ordonnee, ont soin &amp; souci du bien
                      particulier des orphelins, des insensez, &amp; des prodigues: comme chose
-                     qui touche &amp; concerne le<note place="marg">l.t.de tutel.F.l.ius dandi. eod.</note> public, affin que les biens soient conseruez à
+                     qui touche &amp; concerne le<note place="marg">l.t.de tutel.F.l.ius dandi. 
+                        eod.</note> public, affin que les biens soient conseruez à
                      qui ils appartiennent, &amp; qu'ils ne soient dissipez: comme en cas pareil,
-                     les loix souuent font desense d'acquerit, ou d'aliener, ou hypothequer son
+                     les loix souvent sont desense d'acquerit, ou d'aliener, ou hypothequer son
                      bien, sinon à certaines conditions, &amp; à certaines personnes : car la
-                     conseruation des biens d’vn chacun en particulier, est la conseruation du bien
+                     conseruation des biens d’un chacun en particulier, est la conservation du bien
                      public: mais les loix sont publiques, &amp; communes, &amp; dependent seulement
-                     <pb n="13"/> du souuerain. Et neantmoins il n’est pas inconuenient, que les familles
+                     <pb n="13"/> du souuerain. Et neantmoins il n’est pas inconvenient, que les familles
+                     ayent quelques statuts particuliers pour eux &amp; leurs successeurs, faits par
+                     les anciens chefs de familles, &amp; ratifiez par les princes souverains: &amp; les 
+                     docteurs en loix en<note place="marg">Bart. in l. omnes populi, de iustitia. Bal. 
+                        in l. cùm omnes de Episcopis.Imola. &amp; Cuma.in l 3 de testam. Andr. ad Specul. 
+                        in tit. de testa. §. compendiose.Bal.in l.2.de constitu pecu. C. Innocent. in cap. 
+                        cùm accessissent, de constitut.</note> demeurent d’accord pour la pluspart. Nous en avons 
+                     l’exemple en la maison de Saxe, qui a plusieurs chefs de familles, qui ont certain 
+                     droit particulier, &amp; tout autre que les coustumes generales d’Almagne, 
+                     &amp; les coustumes particulieres du pays de Saxe. Et entre les Ducs de 
+                     Bavieres, &amp; les comtes Palatins, y a loix particulieres, tant pour le droit de 
+                     leurs successions, que pour le droit d'electorat, qui est alternatif en ces 
+                     deux maisons, par les anciens traitez de leurs predecesseurs, dequoy le Duc 
+                     de Baviere fist grande instance à la diette d’Auspurg, l'an M.D.LV. ce qui 
+                     n’est point és autres familles des electeurs. Et entre les maisons de Saxe &amp; 
+                     de Hes, y a traitez &amp; loix particulieres homologuees par les Empereurs Charles<note place="marg">
+                        l’an 1370.</note>IIII. &amp; Sigismond: <note place="marg">l’an 1431. 
+                           Decius consil.515.</note>&amp; entre les maisons d’Austriche &amp; de 
+                     Boheme, y a statut que l'une succedera à l’autre, à faute de masles, comme il est 
+                     avenu. Et sans aller plus loing qu’en ce Royaume, j’ay veu une charte de 
+                     la maison de Laval auctorisee par le Roy, &amp; homologuee au parlement 
+                     de Paris: qui est directement contraire aux coustumes d’Anjou, Bretaigne, 
+                     Mayne, où la pluspart des biens de ceste maison là sont situez, par laquelle 
+                     le premier heritier habile à succeder, doit tout avoir, &amp; n’est tenu de rien 
+                     bailler à ses coheritiers, sinon meubles, à la charge que l’heritier portera 
+                     le nom de Guy de Laval s'il est masle, ou de Guyoune si c’est une heritiere,
+                     &amp; les armes pleines. Et pareillement és maisons de la Baume, d’Albret, 
+                     de Rhodez, les filles par les traitez anciens eftoient excluses en ligne 
+                     directe &amp; collaterale, tant qu’il y avoit masles, parles traitez des anciens 
+                     Seigneurs, comme il s'est fait aussi en la maison de Savoye, qui use de la loy Salique.
+                     Telles loix des familles, que les Latins avoient aussi,&amp; les appelloient 
+                     ius familiare, sont faites par les chefs de familles, pour la conseruation 
+                     mutuelle de leurs biens, nom, &amp; marques anciennes: ce qui peut estre passe par 
+                     souffrance és grandes &amp; illuftres<note place="marg">Bal.in cap.I.§. mulier, 
+                        si de feudo controversia,per cap. I. de filiis natis ad morganaticam.</note> maisons: &amp; de fait ces traitez &amp; statuts 
+                     domestiques ont quelquefois conservé, non seulement les familles, ains 
+                     aussi l’estat de la Republique: qui fut cause qu'a la diette d’Auspurg faite 
+                     l’an M. D. LV. les Princes de l’Empire renouvellerent les anciens traitez 
+                     des familles, ayans bien apperceu, que par ce moyem l’Empire s'estoit 
+                     guarenty d’une ruine &amp; subversion totale de l'estat d’Alemagne. Mais cela ne 
+                     doit pas avoir lieu és autres maisons particulieres: affin que les loix
+                     publiques soient communes autant qu’il sera possible. Et ne faut pas 
+                     aisément endurer, que les traitez des familles derogent<note place="marg">Alexand. 
+                        in l. si non speciali. de testament.C.Bart. in l. I. quæ sit longa consuet. Iaso. 
+                        in. l. omnes populi.</note> aux coustumes du 
+                     pays: &amp; moins encores aux loix &amp; ordonnances<note place="marg">l.3.§. 
+                        diuus.de sepulchro violat. ff. l. nemo potest de legat.I.</note> generales. Et quelque 
+                     traité qu’on face contre les coustumes &amp; ordonnances, les successeurs n’y 
+                     sont point tenus, ny obligez comme de fait les successeurs de la maison 
+                     d’Albret, de Laval, &amp; de Montmorancy ont obtenu <note place="marg">l’an 1517. &amp; l’an 1551 1565.</note> arrests du 
+                     Parlement de Paris, contraires aux anciennes chartes de leurs predecesseurs, en
+                     <pb n="14"/> ce qu'elles estoient contraires aux coustumes des lieux, quand il fut question 
+                     des successions de Laval, du comté de Dreux, &amp; de Montmorancy, 
+                     qu’on vouloit faire indivisible contre la coustume du Vicomte de 
+                     Paris, car il faut que les traitez des familles soient sugets aux loix, tout 
+                     ainsi que les chefs de famille sont sugets aux Princes souverains. Voila 
+                     quant à la difference, &amp; similitude de la famille &amp; de la Republique en
+                     general: disons maintenant des membres de la famille.
                      
                      <pb n="21"/> E droit gouuernement'du pere &amp; des enfans gift à
                      bien vser de la puissance, que Dieu a donné au pere sur ses en- fans propres,
