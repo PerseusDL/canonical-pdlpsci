@@ -72,7 +72,7 @@
    </teiHeader>
    <text xml:lang="fre">
       <body>
-         <div type="edition" xml:space="preserve" n="urn:cts:pdlpsci:bodin.livrep.perseus-fre1">
+         <div type="edition" xml:space="preserve" n="urn:cts:pdlpsci:bodin.livrep.perseus-fre1" xml:lang="fre">
             <div n="1" type="textpart" subtype="book">
                <pb n="1" edRef="3"/>
                <head>LIVRE Premier </head>
