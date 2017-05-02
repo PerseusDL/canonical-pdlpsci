@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/570596.svg)](https://zenodo.org/badge/latestdoi/570596)
+[![DOI](https://zenodo.org/badge/47293733.svg)](https://zenodo.org/badge/latestdoi/47293733)
 [![Hook Coverage](http://ci.perseids.org/api/hook/v2.0/badges/PerseusDL/canonical-pdlpsci/coverage.svg)](http://ci.perseids.org/repo/PerseusDL/canonical-pdlpsci)
 [![Hook Texts](http://ci.perseids.org/api/hook/v2.0/badges/PerseusDL/canonical-pdlpsci/texts.svg)](http://ci.perseids.org/repo/PerseusDL/canonical-pdlpsci)
 [![Hook Metadata](http://ci.perseids.org/api/hook/v2.0/badges/PerseusDL/canonical-pdlpsci/metadata.svg)](http://ci.perseids.org/repo/PerseusDL/canonical-pdlpsci)
