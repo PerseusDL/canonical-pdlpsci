@@ -2,6 +2,7 @@
 [![Hook Coverage](http://ci.perseids.org/api/hook/v2.0/badges/PerseusDL/canonical-pdlpsci/coverage.svg)](http://ci.perseids.org/repo/PerseusDL/canonical-pdlpsci)
 [![Hook Texts](http://ci.perseids.org/api/hook/v2.0/badges/PerseusDL/canonical-pdlpsci/texts.svg)](http://ci.perseids.org/repo/PerseusDL/canonical-pdlpsci)
 [![Hook Metadata](http://ci.perseids.org/api/hook/v2.0/badges/PerseusDL/canonical-pdlpsci/metadata.svg)](http://ci.perseids.org/repo/PerseusDL/canonical-pdlpsci)
+
 Canonical - Political Science
 =========
 
@@ -16,10 +17,3 @@ the Universal Copyright Convention.
 Unless otherwise indicated, all contents of this repository are licensed under a 
 Creative Commons Attribution-ShareAlike 3.0 United States License. You must  offer Perseus
 any modifications you make. Perseus provides credit for all accepted changes.
-
-# Installing on exist-db
-
-- Install `ant`
-- Run `ant` at the root of this repository.
-- In the package manager of your existDB install, select your .xar file and upload it.
-- You have now the Perseus Canonical pdlpsci installed in your repository.
