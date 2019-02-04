@@ -66,425 +66,959 @@
                  who="http://data.perseus.org/sosol/users/Bridget%20Almas">Added pb tags and xml formattingXML Markup Change&#xD;
 </change>
           <change who="http://papyri.info/editor/users/balmas">Converted from doc to TEI</change>
+         <change who="Zachary Shufro">Corrected spelling through the end of chapter one</change>
+         <change who="Zachary Shufro"> Corrected spelling through the end of chapter two</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="fre">
       <body>
-         <div type="edition" xml:space="preserve" n="urn:cts:pdlpsci:bodin.livrep.perseus-fre1">
+         <div type="edition" xml:space="preserve" n="urn:cts:pdlpsci:bodin.livrep.perseus-fre1" xml:lang="fre">
             <div n="1" type="textpart" subtype="book">
                <pb n="1" edRef="3"/>
                <head>LIVRE Premier </head>
                <div n="1" type="textpart" subtype="chapter">
                   <head><hi rend="italic">CHAPITRE I</hi> ? Quelle est la fin principale de la
                      Republique bien ordonnee</head>
-                  <p> REPVBLIQVE est vn droit gouuernement de plusieurs mesnages, &amp; de ce qui
-                     leur est commun, auec puissance souueraine. Nous mettons ceste definitiō en
+                  <p> REPUBLIQUE est un droit gouvernement de plusieurs mesnages, &amp; de ce qui
+                     leur est commun, avec puissance souveraine. Nous mettons cette definition en
                      premier lieu, par ce qu’il faut chercher en toutes choses la fin principale:
-                     &amp; puis apres les moyens d’y paruenir. Or la definition n'est autre chose
-                     que la fin du suget qui se presente: &amp; si elle n'est bien fondee, tout ce
-                     qui sera basti sur icelle se ruinera biē tost apres. Et iaçoit que celuy qui
-                     a trouué la fin de ce qui est mis en auant, ne trouue pas tousiours les moyens
-                     d’y paruenir, non plus que le mauuais archer, qui voit le blanc &amp; n’y vise
-                     pas: neantmoins auec l’adresse &amp; la peine qu'il emploira, il y pourra
-                     fraper, ou approcher: &amp; ne sera pas moins estimé, s’il ne touche au but,
-                     pourueu qu’il face tout ce qu’il doit pour y attaindre. Mais qui ne sçait la
-                     fin &amp; definition du suget qui luy est: proposé, cestuy-là est hors
-                     d'esperance de trouuer iamais les moyens d’y paruenir, non plus que celuy qui
+                     &amp; puis apres les moyens d’y parvenir. Or la definition n'est autre chose
+                     que la fin du sujet qui se presente: &amp; si elle n'est bien fondee, tout ce
+                     qui sera basti sur icelle se ruinera bien tost apres. Et jaçoit que celuy qui
+                     a trouve la fin de ce qui est mis en avant, ne trouve pas tousjours les moyens
+                     d’y parvenir, non plus que le mauvais archer, qui voit le blanc &amp; n’y vise
+                     pas: neantmoins avec l’adresse &amp; la peine qu'il emploira, il y pourra
+                     fraper, ou approcher: &amp; ne sera pas moins estime, s’il ne touche au bute,
+                     pourveu qu’il face tout ce qu’il doit pour y attaindre. Mais qui ne sçait la
+                     fin &amp; definition du suget qui luy est: propose, cestuy-la est hors
+                     d'esperance de trouver jamais les moyens d’y parvenir, non plus que celuy qui
                      donne en l’air sans voir la bute. Deduisons donc par le menu les parties de la
-                     definition, que nous auons posee. Nous auons dit en premier lieu, droit
-                     gouuernement, pour la difference qu’il y a entre les Republiques, &amp; les
-                     troupes des voleurs &amp; pirates, auec lesquels on ne doibt auoir part, ny
-                     commerce, ny alliance: comme il a tousiours esté gardé en toute Republique bien
+                     definition, que nous avons posee. Nous avons dit en premier lieu, droit
+                     gouvernement, pour la difference qu’il y a entre les Republiques, &amp; les
+                     troupes des voleurs &amp; pirates, avec lesquels on ne doibt avoir part, ny
+                     commerce, ny alliance: comme il a tousjours esté gardé en toute Republique bien
                      ordonnee, quand il a esté question de donner la foy, traitter la paix, denoncer
-                     la guerre, accorder ligues offensiues, ou defensiues, bourner les frontieres,
-                     &amp; decider les differens entre les princes &amp; seigneurs souuerains, on
-                     n’y a iamais compris les voleurs, ny leur suitte: si peut estre cela ne s’est
+                     la guerre, accorder ligues offensives, ou defensives, bourner les frontieres,
+                     &amp; decider les differens entre les princes &amp; seigneurs souverains, on
+                     n’y a jamais compris les voleurs, ny leur suitte: si peut estre cela ne s’est
                      fait par necessité forcee, qui n’est point sugette à la discretion des loix
-                     humaines, lesquelles ont tousiours separé les brigans &amp; corsaires, d’auec
+                     humaines, lesquelles ont tousjours separé les brigans &amp; corsaires, d’avec
                      ceux que nous di- <pb n="2"/> sons droits ennemis en fait de guerre: qui
                      maintiennent leurs estats &amp; Republiques par voye de iustice, de laquelle
-                     les brigans &amp; corsaires cherchent l'euersion &amp; ruine. C’est pourquoy
-                     ils ne doiuent iouyr du droit de guerre commun à tous peuples, ny se preualoir
+                     les brigans &amp; corsaires cherchent l'eversion &amp; ruine. C’est pourquoy
+                     ils ne doivent jouyr du droit de guerre commun à tous peuples, ny se prevaloir
                      des loix que les vainqueurs donnent aux vaincus. Et mesme la loy n’a pas voulu,
-                     que celuy qui tomberoit entre leurs mains, perdist vn seul poinct de sa
-                        liberté,<note place="margin">postliminium De captiuis.ff.</note> ou qu’il ne
+                     que celuy qui tomberoit entre leurs mains, perdist un seul poinct de sa
+                        liberté,<note place="margin">postliminium De captivis.ff.</note> ou qu’il ne
                      peust faire testament,<note place="margin">l.t.de legat.3.</note>  &amp; tous
-                     actes legitimes, que ne pouuoit<note place="margin">eius qui a latronibus.De
+                     actes legitimes, que ne pouvoit<note place="margin">eius qui a latronibus.De
                         testam.ff.</note>   celuy qui estoit captif des ennemis, comme estant leur
-                     esclaue, qui perdoit sa liberté, &amp; la puissance<note place="margin">l.in
-                        bello. De captiuis.ff.</note>  domestique sur les siens. Et si on dit, que
+                     esclave, qui perdoit sa liberté, &amp; la puissance<note place="margin">l.in
+                        bello. De captivis.ff.</note>  domestique sur les siens. Et si on dit, que
                      la loy<note place="marging">l.si pignore, §.Si prædo act.de pignore. l.I.§.si
                         prædo.l bona fides.depositi.l ita ut si fur vel prædo commodat.</note>  veut
                      qu'on rende au voleur le gage, le depost, la chose empruntee, &amp; qu’il soit
-                     ressaisi des choses par luy occupees iniustement sur autruy, s’il en est
-                     depouillé par violence, il y a double raison: l'vne, que le brigand merite,
+                     ressaisi des choses par luy occupees injustement sur autruy, s’il en est
+                     depouillé par violence, il y a double raison: l'une, que le brigand merite,
                      qu’on ayt egard à luy, quand il vient faire hommage au magistrat, &amp; se rend
-                     soubs l’obeissance des loix pour demander, &amp; receuoir iustice: l’autre, que
-                     cela ne se fait pas tant en faueur des brigans, qu’en haine de celuy, qui veut
-                     retenir le sacré depost, ou qui procede par voye de fait ayant la iustice en
-                     main. Et quant au premier, nous en auons assez d’exemples, mais il n’y en a
+                     soubs l’obeissance des loix pour demander, &amp; recevoir justice: l’autre, que
+                     cela ne se fait pas tant en faveur des brigans, qu’en haine de celuy, qui veut
+                     retenir le sacré depost, ou qui procede par voye de fait ayant la justice en
+                     main. Et quant au premier, nous en avons assez d’exemples, mais il n’y en a
                      point de plus memorable que d’Auguste l’Empereur, qui fïst publier à son de
                      trompe, qu’il donneroit XXV. mil escus à celuy, qui prendroit Crocotas, chef
-                     des voleurs en Espagne: dequoy aduerty Crocotas, se represente luy mesme à
+                     des voleurs en Espagne: dequoy adverty Crocotas, se represente luy mesme à
                      l’Empereur, &amp; luy demande XXV. mil escus. Auguste les luy fist payer,<note place="margin">Dion.lib.56.</note>   &amp; luy donna sa grace: affin qu’on
                      ne pensast point qu’il voulust luy oster la vie, pour le frustrer du loyer
                      promis, &amp; que la foy &amp; seureté publique fust gardee a celuy qui venoit
-                     en iustice: combien qu'il pouuoit proceder contre luy &amp; luy faire son
-                     proces. Mais qui voudroit vser du droit commun enuers les corsaires &amp;
-                     voleurs, comme auec les droits ennemis, il feroit vne perilleuse ouuerture a
-                     tous vagabons de se ioindre aux brigans, &amp; asseurer leurs actions &amp;
-                     ligues capitales soubs le voile de iustice. Non pas qu’il soit impossible de
-                     faire vn bon Prince d’vn voleur, ou d’vn corsaire vn bon Roy: &amp; tel pirate
+                     en justice: combien qu'il pouvoit proceder contre luy &amp; luy faire son
+                     proces. Mais qui voudroit user du droit commun envers les corsaires &amp;
+                     voleurs, comme avec les droits ennemis, il feroit une perilleuse ouverture a
+                     tous vagabons de se joindre aux brigans, &amp; asseurer leurs actions &amp;
+                     ligues capitales soubs le voile de justice. Non pas qu’il soit impossible de
+                     faire un bon Prince d’un voleur, ou d’un corsaire un bon Roy: &amp; tel pirate
                      y a, qui merite mieux d’estre appelle Roy, que plusieurs qui ont porté les
-                     sceptres &amp; diademes., qui n'ont excuse veritable, ny vray-semblable, des
+                     sceptres &amp; diademes, qui n'ont excuse veritable, ny vray-semblable, des
                      voleries &amp; cruautez, qu’ils faisoient souffrir aux fugets: comme disouit
-                     Demetrius le corsaire au Roy Alexandre le Grand, qu’il n’auoit appris autre
+                     Demetrius le corsaire au Roy Alexandre le Grand, qu’il n’avoit appris autre
                      mestier deson pere, ny hérité pour tout bien que deux fregates: mais quant à
-                     luy, qui blasmoit la piratique, il rauageoit neantmoins, &amp; brigandoit auec
+                     luy, qui blasmoit la piratique, il ravageoit neantmoins, &amp; brigandoit avec
                      deux puissantes armees, par mer, &amp; par terre, encore qu’il eust de son pere
-                     vn grand &amp; florissant royaume. ce qui esmeut Alexandre plustost à vn
-                     remords de conscience, qu'a vanger la iuste reproche à luy faite par vn
-                     escumeur, qu’il fist alors capitaine en chef d’vne legion: comme de nostre aage
+                     un grand &amp; florissant royaume, ce qui esmeut Alexandre plustost à un
+                     remords de conscience, qu'a vanger la juste reproche à luy faite par un
+                     escumeur, qu’il fist alors capitaine en chef d’une legion: comme de nostre aage
                      Sultan Sulyman appella à son conseil les deux plus nobles corsaires de memoire
-                     d’homme, Ariadin Barberousse, &amp; Dragut Reis, faisant l’vn &amp; l’autre <pb n="3"/> Amiral, &amp; Bascha, tant pour netto yer la mer des autres pirates,
+                     d’homme, Ariadin Barberousse, &amp; Dragut Reis, faisant l’un &amp; l’autre <pb n="3"/> Amiral, &amp; Bascha, tant pour nettoyer la mer des autres pirates,
                      que pour asseurer son estat, &amp; le cours de la traffique. Ces moyens
                      d’attirer les chefs des pirates au port de vertu, est, &amp; fera tousiours
                      loüable, non seulement affin de ne reduire point telles gens au desespoir
-                     d’enuahir l’estat des Princes, ains aussi pour ruiner les autres comme ennemis
+                     d’envahir l’estat des Princes, ains aussi pour ruiner les autres comme ennemis
                      du genre humain: &amp; quoy qu’ils semblent viure en amitié &amp; societé
                      partageans egalement le butin, comme on disoit de Bargule &amp; de Viriat,
                      neantmoins cela ne doit estre appelle societé, ny amitié, ny partage en
                         termes<note place="margin">l.communi.§.inter prædones communi diuid.</note> 
                      de droit: ains coniurations, voleries, &amp; pillages: car le principal poinct,
-                     auquel gist la vraye marque d’amitié, leur defaut, c’est à sçauoir, le droit
-                     gouuernement selon les loix de nature. C’est pourquoy les anciens<note place="margin">Cicero &amp; Aristo in polit.</note>  appelloient Republique,
-                     vne societé d’hommes assemblez, pour bien &amp; heureusement viure: laquelle
-                     definition toutesfois a plus qu’il ne faut d'vne part, &amp; moins d’vne autre:
-                     car les trois poincts principaux y manquent, c’est à sçauoir, la famille, la
-                     souueraineté, &amp; ce qui eft commun en vne Republique: ioint aussi que ce
+                     auquel gist la vraye marque d’amitié, leur defaut, c’est à sçavoir, le droit
+                     gouvernement selon les loix de nature. C’est pourquoy les anciens<note place="margin">Cicero &amp; Aristo in polit.</note>  appelloient Republique,
+                     une societé d’hommes assemblez, pour bien &amp; heureusement viure: laquelle
+                     definition toutesfois a plus qu’il ne faut d'une part, &amp; moins d’une autre:
+                     car les trois poincts principaux y manquent, c’est à sçavoir, la famille, la
+                     souveraineté, &amp; ce qui eft commun en une Republique: joint aussi que ce
                      mot, heureusement, ainsi qu’ils entendoient, n’est point necessaire: autrement
                      la vertu n’auroit aucun pris, si le vent ne soufloit tousiours en poupe: ce que
-                     iamais homme de bien n’accordera: car la republique peut estre bien gouuernee,
-                     &amp; sera neantmoins affligee de pauureté, delaissee des amis, assiegee des
+                     jamais homme de bien n’accordera: car la republique peut estre bien gouvernee,
+                     &amp; sera neantmoins affligee de pauvreté, delaissee des amis, assiegee des
                      ennemi &amp; comblee de plusieurs calamitez: auquel estat Ciceron mesmes
-                     confesse auoir veu tomber la Republique de Marseille en Prouence, qu’il dit
-                     auoir efté la mieux ordonnee, &amp; la plus accōplie, qui fust onques en tout
+                     confesse avoir veu tomber la Republique de Marseille en Provence, qu’il dit
+                     avoir efté la mieux ordonnee, &amp; la plus accomplie, qui fust onques en tout
                      le monde sans exception: &amp; au contraire, il faudroit, que la Republique
-                     fertile en assiette, abondante en richesses, fleurissante en hommes, reueree
+                     fertile en assiette, abondante en richesses, fleurissante en hommes, reveree
                      des amis, redoutee des ennemis, inuincible en armes, puissante en chasteaux,
-                     superbe en maisons, triomphante en gloire, fust droittement gouuernee, ores
+                     superbe en maisons, triomphante en gloire, fust droittement gouvernee, ores
                      qu’elle fust debordee en mechancetez, &amp; fondue en tous vices. Et neantmoins
-                     il est biē certain, que la vertu n’a point d’ennemy plus capital, qu’vn tel
+                     il est bien certain, que la vertu n’a point d’ennemy plus capital, qu’un tel
                      succés qu’on dit tresheureux: &amp; qu’il est presque impossible d’accoler
                      ensemble deux choses si contraires. Par ainsi nous ne mettrons pas en ligne de
-                     cōpte, pour definir la Repub. ce mot, heureusement: ains nous prendrons la mire
-                     plus haut pour toucher, ou du moins approcher, au droit gouuernement:
-                     toutefois, nous ne voulons pas aussi figurer vne Republique en Idee sans
+                     compte, pour definir la Repub. ce mot, heureusement: ains nous prendrons la mire
+                     plus haut pour toucher, ou du moins approcher, au droit gouvernement:
+                     toutefois, nous ne voulons pas aussi figurer une Republique en Idee sans
                      effect, telle que Platon, &amp; Thomas le More chancelier d’Angleterre, ont
-                     imaginé, mais nous contenterons de suiure les regles Politiques au plus pres
-                     qu’il sera possible: en quoy faisant, on ne peut iustement estre blasmé,
+                     imaginé, mais nous contenterons de suivre les regles Politiques au plus pres
+                     qu’il sera possible: en quoy faisant, on ne peut justement estre blasmé,
                      encores qu’on n’ayt pas attaint le but où l’on visoit, non plus que le maistre
                      pilote transporté de la tempeste, ou le medecin vaincu de la maladie, ne font
-                     pas moins estimez, pourueu que l’vn ayt bien gouuerné son malade, &amp; l’autre
-                     son nauire. Or si la vraye felicité d'vne Republique, &amp; d’vn homme seul est
-                     tout <pb n="4"/> vn, &amp; que le souuerain bien de la Republique en general,
-                     aussi bien que d’vn chacun en particulier, gist es vertus intellectuelles,
-                     &amp; contemplatiues, comme les mieux entendus<note place="margin">Aristotel.lib.7.cap.3. &amp;15.polit.&amp; lib.10.ethic.ad
-                     Nicomach.</note>  ont resolu: il faut aussi accorder, que ce: peuple là iouist
-                     du souuerain bien, quand il a ce but deuant les yeux, de s'exercer en la
-                     contemplation des choies naturelles humaines, &amp; diuines, en rapportant la
+                     pas moins estimez, pourveu que l’un ayt bien gouverné son malade, &amp; l’autre
+                     son navire. Or si la vraye felicité d'une Republique, &amp; d’un homme seul est
+                     tout <pb n="4"/> un, &amp; que le souverain bien de la Republique en general,
+                     aussi bien que d’un chacun en particulier, gist es vertus intellectuelles,
+                     &amp; contemplatives, comme les mieux entendus<note place="margin">Aristotel.lib.7.cap.3. &amp;15.polit.&amp; lib.10.ethic.ad
+                     Nicomach.</note>  ont resolu: il faut aussi accorder, que ce: peuple là jouist
+                     du souverain bien, quand il a ce but devant les yeux, de s'exercer en la
+                     contemplation des choies naturelles humaines, &amp; divines, en rapportant la
                      louange du tout au grand prince de nature. Si donc nous confessons, que cela
-                     est le but principal de la vie bien heureuse d’vn chacun en particulier, nous
-                     concluons aussi que c’est la fin &amp; felicité d'vne Republique. mais d’autant
-                     que les hommes d’affaires, &amp; les Princes, ne sont iamais tombez d’accord
+                     est le but principal de la vie bien heureuse d’un chacun en particulier, nous
+                     concluons aussi que c’est la fin &amp; felicité d'une Republique. mais d’autant
+                     que les hommes d’affaires, &amp; les Princes, ne sont jamais tombez d’accord
                      pour ce regard, chacun mesurant son bien au pied de ses plaisirs &amp;
-                     contentemens: &amp; que ceux qui ont eu mesme opinion du souuerain bien d'vn
+                     contentemens: &amp; que ceux qui ont eu mesme opinion du souverain bien d'un
                      particulier, n’ont pas tousiours accordé que l’homme de bien, &amp; le bon
-                     citoyen soit tout vn: ny que la felicité d’vn homme, &amp; de toute la
-                     Republique fust pareille: cela fait, qu’on atousiours eu varieté de loix, de
+                     citoyen soit tout un: ny que la felicité d’un homme, &amp; de toute la
+                     Republique fust pareille: cela fait, qu’on atousjours eu varieté de loix, de
                      coustumes, &amp; desseings, selon les humeurs &amp; passions des Princes &amp;
-                     gouuerneurs. Toutefois puisque l’homme sage est Ia mesure de iustice &amp; de
+                     gouverneurs. Toutefois puisque l’homme sage est la mesure de justice &amp; de
                      verité: &amp; que ceux là qui sont reputez les plus sages, demeurent d’accord,
-                     que le souuerain bien d’vn particulier, &amp; de la Republique n'est qu’vn,
+                     que le souuerain bien d’un particulier, &amp; de la Republique n'est qu’un,
                      sans faire difference entre l'homme de bien, &amp; le bon citoyen, nous
                      arresterons là le vray poinct de felicité, &amp; le but principal, auquel se
-                     doit rapporter le droit gouuernement d’vne Republique: iaçoit qu’Aristote a
+                     doit rapporter le droit gouvernement d’une Republique: jaçoit qu’Aristote a
                      doublé d’opinion, &amp; tranché quelquefois le different des parties par la
-                     moitié, couplant tantost les richesses, tantost la force &amp; la santé auec
+                     moitié, couplant tantost les richesses, tantost la force &amp; la santé avec
                      l'action de vertu, pour s'accorder à la plus commune opinion des
                         hommes: mais<note place="margin">lib.10.ethic.Nico.&amp; 7.politic.</note> 
                      quand il en dispute plus subtilement, il met le comble de felicité en
-                     contemplation. Qui semble auoir donné occasion à Marc Varron de dire, que la
+                     contemplation. Qui semble avoir donné occasion à Marc Varron de dire, que la
                      felicité des hommes est meslee d’action, &amp; de contemplation: &amp; sa
-                     raison est à mon aduis, que d'vne chose simple la felicité est simple, &amp;
-                     d’vne chose double, composee de parties diuerses, la felicité eft double: comme
+                     raison est à mon advis, que d'une chose simple la felicité est simple, &amp;
+                     d’une chose double, composee de parties diverses, la felicité eft double: comme
                      le bien du corps gist en santé, force, alegresse, &amp; en la beauté des
                      membres bien proportionnez: &amp; la felicité de l’ame inferieure, qui eft la
                      vraye liaison du corps &amp; de l'intellect, gist en l'obeissance que les
-                     appetits doiuent à la raison: c’est à dire, en l’action des vertus morales:
-                     tout ainsi que le souuerain bien de la partie intellectuelle, gist aux vertus
+                     appetits doivent à la raison: c’est à dire, en l’action des vertus morales:
+                     tout ainsi que le souverain bien de la partie intellectuelle, gist aux vertus
                      intellectuelles: c’est à sçauoir, en prudence, science, &amp; vraye religion:
-                     l’vne touchant les choses humaines, l’autre les choses naturelles: la
-                     troisiesme, les choses diuines: la premiere monstre la difference du bien &amp;
+                     l’une touchant les choses humaines, l’autre les choses naturelles: la
+                     troisiesme, les choses divines: la premiere monstre la difference du bien &amp;
                      du mal: la seconde, du vray &amp; du faux: la troisiesme, de la pieté &amp;
                      impieté, &amp; ce qu’il faut choisir &amp; fuir: car de ces trois se compose la
                      vraye sagesse, où est le plus haut poinct de felicité en ce monde. Aussi peut
-                     on dire par comparaison du petit au grand, que la Republique doit auoir vn
-                     territoire suffisant, &amp; lieu capable pour les habitans, la fertilité d’vn
+                     on dire par comparaison du petit au grand, que la Republique doit auoir un
+                     territoire suffisant, &amp; lieu capable pour les habitans, la fertilité d’un
                      pays assez plantureux, &amp; quantité de bestail pour la <pb n="5"/> nourriture
                      &amp; vestemens des sugets: &amp; pour les maintenir en sante, la douceur du
                      ciel, la temperature de l'air, la bonté des eaux: &amp; pour la defense &amp;
                      retraite du peuple, les matieres propres à bastir maisons &amp; places fortes,
-                     si le lieu de soy n’est assez couuert &amp;. defensable. Voila les premieres
+                     si le lieu de soy n’est assez couuvrt &amp; defensable. Voila les premieres
                      choses, desquelles on est le plus soigneux en toute Republique, &amp; puis on
                      cherche ses aisances: comme les medecines, les metaux, les teintures: &amp;
                      pour assugetir les ennemis, &amp; allonger ses frontieres par conquestes, on
-                     fait prouision d’armes offensiues: &amp; d’autant que les appetits des hommes
-                     font le plus souuent insatiables, on veut auoir en affluence, non seulement les
-                     choses vtiles &amp; necessaires, ains aussi plaisantes &amp; inutiles. Et tout
-                     ainsi qu’on ne pense gueres à l’instruction d'vn enfant qu’il ne soit eleué,
+                     fait provision d’armes offensives: &amp; d’autant que les appetits des hommes
+                     font le plus souvent insatiables, on veut avoir en affluence, non seulement les
+                     choses utiles &amp; necessaires, ains aussi plaisantes &amp; inutiles. Et tout
+                     ainsi qu’on ne pense gueres à l’instruction d'un enfant qu’il ne soit elevé,
                      nourri, &amp; capable de raison: aussi les Republiques n’ont pas grand soing
                      des vertus morales, ny des belles sciences, &amp; moins encores de la
-                     contemplation des choses naturelles &amp; diuines, qu’elles ne soient garnies
-                     de cequi leur fait besoin: &amp; se contentent d'vne prudence mediocre, pour
+                     contemplation des choses naturelles &amp; divines, qu’elles ne soient garnies
+                     de cequi leur fait besoin: &amp; se contentent d'une prudence mediocre, pour
                      asseurer leur estat contre les estrangers, &amp; garder les sugets d’offenser
-                     les vns les autres, ou si quelcun est offensé, reparer la faute. Mais l’homme
-                     se voyant esleué &amp; enrichi de tout ce qui luy est necessaire &amp; commode,
-                     &amp; sa vie asseuree d’vn bon repos, &amp; Tranquillité douce, s’il est bien
+                     les uns les autres, ou si quelcun est offensé, reparer la faute. Mais l’homme
+                     se voyant eslevé &amp; enrichi de tout ce qui luy est necessaire &amp; commode,
+                     &amp; sa vie asseuree d’un bon repos, &amp; Tranquillité douce, s’il est bien
                      né, il prend à contre-cueur les vicieux &amp; meschans, &amp; s'approche des
                      gens de bien &amp; vertueux: &amp; quand son esprit est clair net des vices
                      &amp; passions, qui troublent l'ame, il prend garde plus soigneusement à voir
-                     la diuersïté des choses humaines, les aages differens, les humeurs contraires,
-                     la grandeur des vns, Ia ruine des autres, le changement des Republiques:
-                     cherchant tousiours les causes des effects qu’il voit. puis apres, se tournant
+                     la diversïté des choses humaines, les aages differens, les humeurs contraires,
+                     la grandeur des uns, la ruine des autres, le changement des Republiques:
+                     cherchant tousiours les causes des effects qu’il voit, puis apres, se tournant
                      à la beauté de nature, il prend plaisir à la varieté des animaux, des plantes,
                      des minéraux, considerant la forme, la qualité, la vertu de chacune, les haines
-                     &amp; amitiez des vnes enuers les autres, &amp; la suitte des causes
-                     enchaisnees, &amp; dependentes l’vne de l’autre: puis laissant la region
-                     elementaire, il dresse son vol iusques au ciel, auec les aisles de
+                     &amp; amitiez des unes envers les autres, &amp; la suitte des causes
+                     enchaisnees, &amp; dependentes l’une de l’autre: puis laissant la region
+                     elementaire, il dresse son vol jusques au ciel, auec les aisles de
                      contemplation, pour voir la splendeur, la beauté, la force des lumieres
-                     celestes, le mouuement terribIe, Ia grandeur &amp; hauteur d’icelles, &amp;
-                     l’harmonie melodieuse de tout ce monde: alors il eft raui d'vn plaisir
-                     admirable, accompagné d’vn desir perpetuel de trouuer la premiere cause, &amp;
-                     celuy qui fut autheur d’vn si beau chef-d’œuure: auquel estant paruenu, il
-                     arreste là le cours de ses contemplations, voyant qu’il eft infini &amp;
+                     celestes, le mouvement terribIe, la grandeur &amp; hauteur d’icelles, &amp;
+                     l’harmonie melodieuse de tout ce monde: alors il est ravi d'un plaisir
+                     admirable, accompagné d’un desir perpetuel de trouver la premiere cause, &amp;
+                     celuy qui fut autheur d’un si beau chef-d’œuure: auquel estant paruenu, il
+                     arreste là le cours de ses contemplations, voyant qu’il est infini &amp;
                      incomprehensible en essence, en grandeur, en puissance, en sagesse, en bonté.
-                     Par ce moyen de contemplation, les hommes sages &amp; entendus, ont resolu vne
+                     Par ce moyen de contemplation, les hommes sages &amp; entendus, ont resolu une
                         tresbelle<note place="margin">Aristot.lib.6.phys.&amp; lib 12.cap.vlt.
-                        metaphys.</note> demonstration, c'est asçauoir, qu’il n'y a qu’vn Dieu
-                     eternel &amp; infini: &amp; de là ont quasi tiré vne conclusion de la felicité
-                     humaine. Si doncvn tel homme est iugé sage, &amp; bien heureux, aussi sera la
+                        metaphys.</note> demonstration, c'est asçavoir, qu’il n'y a qu’un Dieu
+                     eternel &amp; infini: &amp; de là ont quasi tiré une conclusion de la felicité
+                     humaine. Si doncun tel homme est jugé sage, &amp; bien heureux, aussi sera la
                      Republique tres-heureuse, ayant beaucoup de tels citoyens, encores qu’elle ne
                      soit pas de grande estendue, ny opulente en biens, mesprisant les pom <pb n="6"/>  pes &amp; delices, des citez superbes plongees en plaisirs, &amp; ne faut
                      pas pourtant conclure, que la felicité de l'homme soit confuse &amp; meslee:
-                     car combien que l’homme soit composé d’vn corps mortel, &amp; d’vne ame
+                     car combien que l’homme soit composé d’un corps mortel, &amp; d’une ame
                      immortelle, si faut-il confesser, que son bien principal depend de la partie la
-                     plus noble: car puisque le corps doibt seruir à l'ame, &amp; l’appetit bestial
-                     à la raison diuine, son bien souuerain despend aussi des vertus
-                     intellectuelles, qu’Aristote appelle l’action de l’intellect: &amp; iaçoit
-                     qu’il eust dit, que le souuerain bien gist en l’action de vertu, si est-ce
+                     plus noble: car puisque le corps doibt servir à l'ame, &amp; l’appetit bestial
+                     à la raison divine, son bien souverain despend aussi des vertus
+                     intellectuelles, qu’Aristote appelle l’action de l’intellect: &amp; jaçoit
+                     qu’il eust dit, que le souverain bien gist en l’action de vertu, si est-ce
                      qu’en fin il a esté contraint de confesser,<note place="margin">Aristot.lib.10.ethicor.&amp; cap.7.polit.</note>  que l’action se rapporte
                      à la contemplation, comme à sa fin, &amp; qu’en icelle gist le souuerain bien:
                      autrement, dit-il, les hommes feroient plus heureux que Dieu, qui n’est point
-                     empesché aux actions muables, iouissant du fruit eternel de contemplation,
-                     &amp; d’vn repos treshault. mais ne voulant pas s'arrester ouuertement à
-                     l’aduis de son maistre, ny se departir de la maxime qu’il auoit posee, c’est à
-                     sçauoir, que le souuerain bien gist en l’action de vertu, quand il a conclu la
-                     dispure du souuerain bien, il a coulé doucement ce mot æquiuoque, l’action de
+                     empesché aux actions muables, jouissant du fruit eternel de contemplation,
+                     &amp; d’un repos treshault, mais ne voulant pas s'arrester ouvertement à
+                     l’advis de son maistre, ny se departir de la maxime qu’il avoit posee, c’est à
+                     sçauoir, que le souverain bien gist en l’action de vertu, quand il a conclu la
+                     dispure du souverain bien, il a coulé doucement ce mot æquivoque, l’action de
                      l’intellect, pour contemplation, disant que la felicité de l’homme gist en
                      l’action de l’intellect: affin qu’il ne semblast vouloir mettre la fin
                      principale de l’homme, &amp; des Republiques, en deux choses du tout
-                     contraires, c’eft a sçauoir, en mouuement &amp; en repos. en action &amp;
+                     contraires, c’est a sçauoir, en mouvement &amp; en repos. en action &amp;
                      contemplation. &amp; neantmoins voyant que les hommes &amp; les Republiques
-                     font en perpetuel mouuement, empeschez aux actions necessaires, il n’a pas
+                     font en perpetuel mouvement, empeschez aux actions necessaires, il n’a pas
                      voulu dire simplement, que la felicité gist en contemplation, ce qu’il faut
-                     neantmoins aduouër. car quoy’que les actions, par lesquelles la vie de l’homme
+                     neantmoins advouër, car quoy’que les actions, par lesquelles la vie de l’homme
                      est'entretenuë, soient fort necessaires, comme boire &amp; manger, si est- ce
-                     qu’il n’y eut iamais homme bien appris, qui fondast en cela le souuerain bien.
+                     qu’il n’y eut jamais homme bien appris, qui fondast en cela le souverain bien,
                      aussi l’action des vertus morales est bien fort louable: par ce qu’il est
                      impossible, que l'ame puisse recueillir le doux fruit de contemplation, qu'elle
                      né soit esclarcie, &amp; purisiee parles vertus morales, ou par la lumiere
-                     diuine: de forte, que les vertus morales se rapportent aux intellectuelles. or
+                     divine: de forte, que les vertus morales se rapportent aux intellectuelles. or
                      la felicité n’est pas accomplie, qui se rapporte, &amp; cherche quelque chose
                      de meilleur, comme sa fin principale, &amp; ce qui est moins noble, au plus
                      noble, comme le corps à l'ame, celle cy à l’intellect, l’appetit à la raison,
-                     &amp; viure pour bien viure. Par ainsi Marc Varron, qui a mis la felicité en
-                     action, &amp; en contemplation, eust mieux dit, à mon aduis, que la vie de
-                     l’homme a besoin d’action, &amp; de contemplation: mais que le souuerain bien
+                     &amp; vivre pour bien vivre. Par ainsi Marc Varron, qui a mis la felicité en
+                     action, &amp; en contemplation, eust mieux dit, à mon advis, que la vie de
+                     l’homme a besoin d’action, &amp; de contemplation: mais que le souverain bien
                      gist en contemplation<note place="margin">Plato in Phædone.</note> , que les
                      Academiques ont appellé la mort plaisante, &amp; les Hebrieux la mort<note place="margin">Psal.116. &amp; Leo Hebræus
                         lib.3.de amore.</note> precieuse,
-                     d’autant qu’elle rauist l’ame hors de la fange corporelle, pour la deifier. Et
+                     d’autant qu’elle ravist l’ame hors de la fange corporelle, pour la deifier. Et
                      neantmoins il est bien certain, que la Republique ne peut estre bien ordonnee,
                      si on laisse du tout, ou pour long temps les actions ordinaires, la voye de
-                     iustice, la garde &amp; defense des sugets, les viures, &amp; prouisions
-                     necessaires à l'entretenement d’iceux, non plus que l’homme ne peut viure
-                     longue- <pb n="7"/> Mais tout ainsi qu’en ce monde, qui est la vraye image de
+                     justice, la garde &amp; defense des sugets, les vivres, &amp; provisions
+                     necessaires à l'entretenement d’iceux, non plus que l’homme ne peut vivre
+                     longue. <pb n="7"/> Mais tout ainsi qu’en ce monde, qui est la vraye image de
                      la Republique bien ordonnee, &amp; de l’homme bien reiglé, on voie la lune
                      comme l'ame s’approcher du Soleil, laissant aucunement la region elementaire,
-                     qui ressent vn merueilleux changement, pour le declin de ceste Iumiere, &amp;
-                     tost apres l’accouplement du Soleil se remplir d’vne vertu celeste, qu’elle
-                     rend à toutes choses: aussi l’ame de ce petit monde estant par fois rauie en
-                     contemplation, &amp; aucunement vnie à ce grand Soleil intellectuel, elle
-                     s’enflamme d’vne clarté diuine, &amp; force émerueillable, &amp; d’vne vigueur
+                     qui ressent un merueilleux changement, pour le declin de ceste lumiere, &amp;
+                     tost apres l’accouplement du Soleil se remplir d’une vertu celeste, qu’elle
+                     rend à toutes choses: aussi l’ame de ce petit monde estant par fois ravie en
+                     contemplation, &amp; aucunement unie à ce grand Soleil intellectuel, elle
+                     s’enflamme d’une clarté divine, &amp; force émerveillable, &amp; d’une vigueur
                      celeste fortifiant le corps, &amp; les forces naturelles. mais si l’ame
-                     s’addonne par trop au corps, &amp; s’enyure des plaisirs sensuels, fans
-                     rechercher le soleil diuin, il luy en prend tout ainsi qu’à la lune, quand elle
-                     s'enuelope du tout en l’ombre de la terre, qui luy oste sa lumiere, &amp; sa
+                     s’addonne par trop au corps, &amp; s’enyure des plaisirs sensuels, sans
+                     rechercher le soleil divin, il luy en prend tout ainsi qu’à la lune, quand elle
+                     s'envelope du tout en l’ombre de la terre, qui luy oste sa lumiere, &amp; sa
                      force, &amp; produit par ce desaut plusieurs monstres. &amp; neantmoins si elle
-                     demeuroit tousiours vnie au Soleil, il est bien certain que le monde
-                     elementaire periroit. Nous ferons mesme iugement de là Republique bien
-                     ordonnee, la fin principale de laquelle gist aux vertus contemplatiues, iacoit
+                     demeuroit tousiours unie au Soleil, il est bien certain que le monde
+                     elementaire periroit. Nous ferons mesme jugement de là Republique bien
+                     ordonnee, la fin principale de laquelle gist aux vertus contemplatiues, jacoit
                      que les actions politiques soient preallables, &amp; les moins illustres soient
-                     les premieres: comme faire prouisions necessaires, pour entretenir &amp;
+                     les premieres: comme faire provisions necessaires, pour entretenir &amp;
                      defendre la vie des sugets: &amp; neantmoins telles actions se rapportent aux
                      morales, &amp; celles cy aux intellectuelles, la fin desquelles est la
                      contemplation du plus beau suget qui soit, &amp; qu’on puisse imaginer. Aussi
-                     voyons nous, que Dieu a laisse six iours pour toutes actions, estant la vie de
+                     voyons nous, que Dieu a laisse six jours pour toutes actions, estant la vie de
                      l’homme sugette pour la plus-part à icelles: mais il a ordonné, que le
                      septiesme, qu’il au oit beni sus tous les autres, seroit chomé, comme le saint
-                     iour du repos, affin de l’employer<note place="margin">Psal.I.</note>  en la
+                     jour du repos, affin de l’employer<note place="margin">Psal.I.</note>  en la
                      contemplation de ses œuures de sa loy, &amp; de ses louanges. Voila quant à la
                      fin principale des Republiques bien ordonnees, qui sont d’autant plus
                      heureuses, que plus pres elles approchent de ce but: car tout ainsi qu’il y a
-                     plusieurs degrez de felicité és hommes, aussi ont les Republiques leurs degrez
-                     de felicité, les vnes plus, les autres moins, selon le but que chacune se
+                     plusieurs degrez de felicité des hommes, aussi ont les Republiques leurs degrez
+                     de felicité, les unes plus, les autres moins, selon le but que chacune se
                      propose pour imiter: comme l’on disoit<note place="margin">Plato.</note>  des
                      Lacedemoniens, qu’ils estoient courageux, &amp; magnanimes, &amp; au reste de
-                     leurs actions, iniustes: par ce que leur institution, leurs loix, &amp;
-                     coustumes n’auoient autre but deuant les yeux, que rendre les hommes courageux,
-                     &amp; inuincibles aux labeurs &amp; douleurs, meprisans les plaisirs &amp;
-                     delices. mais la Republique de Romains a fleuri en iustice, &amp; surpasse
-                     celle de Lacedemonne, par ce que les Romains n’auoient pas feulement la
-                     magnanimité, ains aussi la vraye iustice leur estoit comme vn suget, auquelils
-                     adressoient toutes leurs actions. Il faut donc s’efforcer de trouuer les moyens
-                     de paruenir ou approcher de la felicité, que nous auons dit, &amp; à la
-                     definition de la Republique, que nous auons posee. <pb n="8"/>
+                     leurs actions, injustes: par ce que leur institution, leurs loix, &amp;
+                     coustumes n’avoient autre but devant les yeux, que rendre les hommes courageux,
+                     &amp; invincibles aux labeurs &amp; douleurs, meprisans les plaisirs &amp;
+                     delices. mais la Republique de Romains a fleuri en justice, &amp; surpasse
+                     celle de Lacedemonne, par ce que les Romains n’avoient pas seulement la
+                     magnanimité, ains aussi la vraye justice leur estoit comme un suget, auquel ils
+                     adressoient toutes leurs actions. Il faut donc s’efforcer de trouver les moyens
+                     de parvenir ou approcher de la felicité, que nous avons dit, &amp; à la
+                     definition de la Republique, que nous avons posee. <pb n="8"/>
                   </p>
                </div>
                <div n="2" type="textpart" subtype="chapter">
-                  <head><hi rend="italic">CHAP.II.</hi> ? DV MESNAGE, ET LA DIFFERENCE ENTRE LA
+                  <head><hi rend="italic">CHAP.II.</hi> ? DU MESNAGE, ET LA DIFFERENCE ENTRE LA
                      REPUBLIQE &amp; LA FAMILLE</head>
-                  <p> MESNAGE est vn droit gouuernement de plusieurs sugets, sous l'obeissance d’vn
+                  <p> MESNAGE est un droit gouvernement de plusieurs sugets, sous l'obeissance d’un
                      chef de famille, &amp; de ce qui luy est propre. La seconde partie de la
-                     definition de Republique que nous auons posee, touche la famille, qui est la
+                     definition de Republique que nous avons posee, touche la famille, qui est la
                      vraye source &amp; origine de toute Republique, &amp; membre principal
-                     d’icelle. Et par ainsi Xenophon &amp; Aristote, sans occasion, à mon aduis, ont
-                     diuisé l'oeconomie de la police: ce qu’on ne peut faire sans demembrer la
-                     partie principale du total, &amp; bastir vne ville fans maisons, ou bien par
-                     mesme moyen il falloit faire vne science à part des corps &amp; colleges, qui
+                     d’icelle. Et par ainsi Xenophon &amp; Aristote, sans occasion, à mon advis, ont
+                     divisé l'oeconomie de la police: ce qu’on ne peut faire sans demembrer la
+                     partie principale du total, &amp; bastir une ville sans maisons, ou bien par
+                     mesme moyen il falloit faire une science à part des corps &amp; colleges, qui
                      ne sont ny familles, ny citez, &amp; sont neantmoins partie de la Republique.
-                     Mais les Iurisconsultes, &amp;: legislateurs, que nous deuons suiure, ont
+                     Mais les jurisconsultes, &amp; legislateurs, que nous devons suivre, ont
                      traitté les loix &amp; ordonnances de la police, des colleges, &amp; des
-                     familles en vne mesme science. toutefois ils n’ont pas pris l’œconomie comme
+                     familles en une mesme science. toutefois ils n’ont pas pris l’œconomie comme
                      Aristote, qui l’appelle science d’acquerir des biens, qui est commune aux corps
                      &amp; colleges aussi bien comme aux Republiques. Or nous entendons par la
-                     mesnagerie, le droit gouuernement de la famille, &amp; de la puissance que le
+                     mesnagerie, le droit gouvernement de la famille, &amp; de la puissance que le
                      chef de famille a sus les siens, de l'obeissance qui luy est deue, qui n’a
                      point esté touchee aux traittez d’Aristote, &amp; de Xenophon. Tout ainsi donc
                      que la famille bien conduitte, est la vraye image de la Republique, &amp; la
-                     puissance domestique semblable à la puissance souueraine:aussi est le droit
-                     gouuernement de la maison, le vray modelle du gouuernement de la Repub. Et tout
-                     ainsi que les membres chacun en particulier faisans leur deuoir, tout le corps
-                     se porte bien: aussi les familles estants bien gouuernees, la Repub. ira bien.
-                     Nous auons dit que Republique est vn droit gouuernement de plusieurs mesnages,
-                     &amp; de ce qui leur est commun, auec puissance souueraine. le mot de plusieurs
-                     ne peut estre fîgnifié par deux au cas qui s’offre, car la loy<note place="margin">l.Neratius.de verbor.signif.ff.</note>  veut du moins trois
-                     personnes pour faire vn college, &amp; autant pour faire vne famille, outre le
-                     chef de famille, soient enfans, ou esclaues, ou afranchis, ou gens libres qui
+                     puissance domestique semblable à la puissance souveraine:aussi est le droit
+                     gouvernement de la maison, le vray modelle du gouvernement de la Repub. Et tout
+                     ainsi que les membres chacun en particulier faisans leur devoir, tout le corps
+                     se porte bien: aussi les familles estants bien gouvernees, la Repub. ira bien.
+                     Nous avons dit que Republique est un droit gouvernement de plusieurs mesnages,
+                     &amp; de ce qui leur est commun, avec puissance souveraine. le mot de plusieurs
+                     ne peut estre sîgnifié par deux au cas qui s’offre, car la loy<note place="margin">
+                        l.Neratius.de verbor.signif.ff.</note>  veut du moins trois
+                     personnes pour faire un college, &amp; autant pour faire une famille, outre le
+                     chef de famille, soient enfans, ou esclaves, ou afranchis, ou gens libres qui
                      se soubmettent volontairement à l'obeissance du chef de mesnage, qui fait le
-                     quatriesme, &amp; toutesfois membre<note place="margin">l.familiæ.eod.</note> de la famille. Et d’autant que les mesnages, corps &amp;
+                     quatriesme, &amp; toutesfois membre<note place="margin">l.familiæ.
+                        eod.</note> de la famille. Et d’autant que les mesnages, corps &amp;
                      colleges, ensemble les Republiques, &amp; tout le genre humain periroit, fil
-                     n’eftoit repeuplé par mariages, il s'ensuit bien que la famille ne sera pas
+                     n’estoit repeuplé par mariages, il s'ensuit bien que la famille ne sera pas
                      accomplie de tout poinct sans la femme, qui pour ceste cause est appellee mere
                      de famille: tellement qu'il faut à ce compte cinq personnes du moins, pour
-                     accomplir vne famille entiere. Si donc il faut trois personnes pour faire vn
-                     college, &amp; autant pour vn mesnage, outre le chef de famille &amp; sa femme:
+                     accomplir une famille entiere. Si donc il faut trois personnes pour faire un
+                     college, &amp; autant pour un mesnage, outre le chef de famille &amp; sa femme:
                         <pb n="9"/> nous dirons par mesme raison, qu’il faut du moins trois mesnages
-                     pour faire vne Republique, qui seroit trois fois cinq pour trois mesnages
-                     parfaicts. Et a mon aduis que les anciens appelloient pour ceste cause vn
-                     peuple quinze personnes, comme dit Apulee, rapportans Ie nombre de quinze à
-                     trois familles parfaites. Autrement fil n’y a qu'vn mesnage, encores que le
+                     pour faire une Republique, qui seroit trois fois cinq pour trois mesnages
+                     parfaicts. Et a mon advis que les anciens appelloient pour ceste cause un
+                     peuple quinze personnes, comme dit Apulee, rapportans le nombre de quinze à
+                     trois familles parfaites. Autrement sil n’y a qu'un mesnage, encores que le
                      pere de famille eust trois cens femmes, &amp; six cens enfans, autant qu’en
-                     auoit Hermotimus Roy de Parthe, ou cinq cens esclaues, comme Crassus: s'ils
-                     sont tous sous la puissance d’vn chef de mesnage, ce n’est pas vn peuple, ny
-                     vne Republique, ains vn mesnage seulement, encore qu’il y eust plusieurs
-                     enfans, &amp; plusieurs esclaues, ou seruiteurs mariez ayans d’autres enfans,
-                     pourueu qu'ils soient tous en la puissance: d’vn chef, que la loy<note place="margin">l.pronuntiatio.§.familiæ.eod.</note>  appelle pere de
+                     avoit Hermotimus Roy de Parthe, ou cinq cens esclaves, comme Crassus: s'ils
+                     sont tous sous la puissance d’un chef de mesnage, ce n’est pas un peuple, ny
+                     vne Republique, ains un mesnage seulement, encore qu’il y eust plusieurs
+                     enfans, &amp; plusieurs esclaves, ou serviteurs mariez ayans d’autres enfans,
+                     pourveu qu'ils soient tous en la puissance: d’un chef, que la loy<note place="margin">
+                        l.pronuntiatio.§.familiæ.eod.</note>  appelle pere de
                      famille, ore qu’il fust au berceau. Et pour ceste cause les Hebrieux, qui
-                     monstrent tousiours la proprieté des choses par les noms, ont appelle famille
+                     monstrent tousjours la proprieté des choses par les noms, ont appelle famille
                      HEBREW TEXT, non pas pour ce que la famille contient mil personnes, comme dit
-                     vn Rabin, mais du mot HEBREW TEXT, qui signifie chef, seigneur, prince, nommant
+                     un Rabin, mais du mot HEBREW TEXT, qui signifie chef, seigneur, prince, nommant
                      la famille par le chef d’icelle. Maison dira peut estre, que trois corps &amp;
-                     colleges, ou plusieurs particuliers fans famille, peuuent aussi bien composer
-                     vne Republique, s’ils sont gouuernez auec puissance souueraine: il y a bien
+                     colleges, ou plusieurs particuliers sans famille, peuuent aussi bien composer
+                     une Republique, s’ils sont gouuernez avec puissance souveraine: il y a bien
                      apparence: &amp; toutefois ce n’est point Republique, veu que tout corps &amp;
                      college s'aneantist de soy mesme, s'il n’est reparé parles familles. Or la loy
                      dit, que le peuple ne meurt<note place="margin">l.proponebatur.de
-                        iudic.ff.</note>  iamais, &amp; tient que cent, voire mil ans apres, c’est
-                     le mesme peuple, encore que I'vsufruit laissé à la Republique, est reuni à la
+                        iudic.ff.</note>  jamais, &amp; tient que cent, voire mil ans apres, c’est
+                     le mesme peuple, encore que l'usufruit laissé à la Republique, est reuni à la
                      proprieté, qui autrement seroit inutile, cent ans apres:<note place="margin">l.
-                        an vsufrusctus.de vsufr.ff.</note>  car on presume, que tous ceux qui
-                     viuoient, meurent en cent ans, combien qu’ils soient immortels par succession,
-                     comme le nauire de Thesee, qui dura tant qu’on eut soin de le reparer. Mais
-                     tout ainsi que le nauire n’est plus que bois, sans forme de vaisseau, quand la
+                        an usufrusctus.de usufr.ff.</note>  car on presume, que tous ceux qui
+                     vivoient, meurent en cent ans, combien qu’ils soient immortels par succession,
+                     comme le navire de Thesee, qui dura tant qu’on eut soin de le reparer. Mais
+                     tout ainsi que le navire n’est plus que bois, sans forme de vaisseau, quand la
                      quille, qui soustient les costes, la proüe, la poupe, &amp; le tillac, sont
-                     ostez: aussi la Republique sans puissance souueraine, qui vnist tous les
-                     membres &amp; parties d’icelles, &amp; tous les mesnages &amp; colleges en vn
+                     ostez: aussi la Republique sans puissance souveraine, qui unist tous les
+                     membres &amp; parties d’icelles, &amp; tous les mesnages &amp; colleges en un
                      corps, n’est plus Republique. Et sans sortir de la similitude, tout ainsi que
-                     le nauire peut estre demembré en plusieurs pieces, ou bruslé du tout: aussi le
+                     le navire peut estre demembré en plusieurs pieces, ou bruslé du tout: aussi le
                      peuple peut estre escarté en plusieurs endroits, ou du tout esteint, encore que
                      la ville demeure en son entier: car ce n’est pas la ville, ny les personnes qui
-                     font la cité: mais l'vnion d’vn peuple fous vne seigneurie souueraine, encore
+                     font la cité: mais l'union d’un peuple sous une seigneurie souveraine, encore
                      qu’il n’y ayt que trois mesnages. Car comme le ciron ou la formi font aussi
-                     bien nombrez entre les animaux, comme les Elephans: aussi le droit gouuernement
-                     de trois familles auec puissance souueraine, fait aussi bien vne Republique,
-                     comme d’vne grande seigneurie. Et la seigneurie de Rhaguse n’est pas moins
+                     bien nombrez entre les animaux, comme les Elephans: aussi le droit gouvernement
+                     de trois familles avec puissance souveraine, fait aussi bien une Republique,
+                     comme d’une grande seigneurie. Et la seigneurie de Rhaguse n’est pas moins
                      Republique, que celle des Turcs, ou des Tartares. Et tout ainsi qu’au
-                     denombrement des maisons, vn petit mesnage est aussi bien compté pour vn feu,
-                     que la plus grande &amp; la plus riche maison de là cité: <pb n="10"/> aussi vn
-                     petit Roy est autant souuerain, que le plus grand Monarque de la terre: car vn
-                     grand royaume n’est autre chose, disoit Cassiodore, que vne grande Republique
-                     sous la garde d’vn chef souuerain. Et par ainsi de trois mesnages, si l’vn des
-                     chefs de mesnage a puissance souueraine sus les deux autres: ou les deux
+                     denombrement des maisons, un petit mesnage est aussi bien compté pour un feu,
+                     que la plus grande &amp; la plus riche maison de là cité: <pb n="10"/> aussi un
+                     petit Roy est autant souverain, que le plus grand Monarque de la terre: car un
+                     grand royaume n’est autre chose, disoit Cassiodore, que une grande Republique
+                     sous la garde d’un chef souverain. Et par ainsi de trois mesnages, si l’un des
+                     chefs de mesnage a puissance souveraine sus les deux autres: ou les deux
                      ensemble sus le tiers, ou les trois en nom collectif sur chacun en particulier,
-                     c’est aussi bien Republique, comme fil y auoit six millions de sugets. Et par
-                     ce moyen il se pourra faire, qu’vne famille fera plus grande qu’vne Republique,
+                     c’est aussi bien Republique, comme sil y avoit six millions de sugets. Et par
+                     ce moyen il se pourra faire, qu’une famille fera plus grande qu’une Republique,
                      &amp; mieux peuplee: comme lon dict du bon pere de famille Ælius Tuberon, qui
-                     estoit chef de famille de seize enfans tous mariez issus de luy, qu’il auoit
-                     tous en fa puissance, auec leurs enfans &amp; seruiteurs demeurans auec luy en
+                     estoit chef de famille de seize enfans tous mariez issus de luy, qu’il avoit
+                     tous en sa puissance, avec leurs enfans &amp; serviteurs demeurans auec luy en
                         mesme<note place="margin">Plutar in Æmylio.</note>  logis. Et au contraire,
                      la plus grande cité ou monarchie, &amp; la mieux peuplee qui soit sur la terre,
                      n’est pas plus Republique, ny cité que la plus petite: quoy que dist Aristote,
-                     que la ville de Babylone, qui auoit trois iournees<note place="margin">Herodo.lib.3.</note>  de tour en quarré, estoit vne nation plustost qu’vne
-                     Republique, qui ne doit auoir, à son dire, que dix mil citoyens pour le plus:
-                     comme fil estoit inconuenient qu’vne, voire cent nations diuerses fous vne
-                     puissance souueraine, feissent vne Republique. Or si l’opinion d'Aristote auoit
+                     que la ville de Babylone, qui avoit trois journees<note place="margin">Herodo.
+                        lib.3.</note>  de tour en quarré, estoit une nation plustost qu’une
+                     Republique, qui ne doit avoir, à son dire, que dix mil citoyens pour le plus:
+                     comme sil estoit inconvenient qu’une, voire cent nations diverses sous une
+                     puissance souveraine, feissent une Republique. Or si l’opinion d'Aristote avoit
                      lieu, la Republique Romaine, qui a esté la plus illustre qui fut onques, n'eust
-                     pas mérité le nom de Republique, veu qu’au temps de sa fondation elle n’auoit
-                     que trois mil cito yens, &amp; sous l’Empereur Tibere il s'en trouua quinze
+                     pas mérité le nom de Republique, veu qu’au temps de sa fondation elle n’avoit
+                     que trois mil citoyens, &amp; sous l’Empereur Tibere il s'en trouva quinze
                      millions &amp; cent dix mil, espars en tout l’Empire, sans y comprendre les
-                     esclaues, qui estoient pour le moins dix pour vn, &amp; sans compter les
-                     alliez, ny les autres peuples libres, aux enclaues de l’Empire, qui auoient
-                     leur estat à part en tiltre de souueraineté: qui est le vray fondement, &amp;
-                     le piuot, sur lequel tourne l'estat d’vne cité, &amp; de laquelle dependent
-                     tous les magistrats, loix, &amp; ordonnances, &amp; qui est la feule vnion,
+                     esclaves, qui estoient pour le moins dix pour un, &amp; sans compter les
+                     alliez, ny les autres peuples libres, aux enclaves de l’Empire, qui avoient
+                     leur estat à part en tiltre de souveraineté: qui est le vray fondement, &amp;
+                     le pivot, sur lequel tourne l'estat d’une cité, &amp; de laquelle dependent
+                     tous les magistrats, loix, &amp; ordonnances, &amp; qui est la seule union,
                      &amp; liaison des familles, corps, &amp; colleges, &amp; de tous les
-                     particuliers en vn corps parfaict de Republique, soit que tous les sugets
-                     d’icelle soient enclos en vne petite ville, ou en quelque petit territoire:
-                     comme la Republique de Schunits, l'vn des cantons de Suisse, qui n’est pas de
+                     particuliers en un corps parfaict de Republique, soit que tous les sugets
+                     d’icelle soient enclos en une petite ville, ou en quelque petit territoire:
+                     comme la Republique de Schunits, l'un des cantons de Suisse, qui n’est pas de
                      si grand estendue, que plusieurs fermes de ce Royaume, ne soient de plus grand
-                     reuenu: soit que la Republique ayt plusieurs bailliages, ou prouinces: comme le
-                     Royaume de Perse, qui auoit six vingts gouuernemens, &amp; celuy d’Æthiopie,
-                     qui en a cinquante, que Paul Ioue fans propos appelle royaumes: &amp;
-                     toutesfois il n’y a qu’vn Roy, vn Royaume, vne Monarchie, vne Republique, sous
-                     la puissance souueraine du grand Negus. Mais outre la sonuetaineté, il faut
+                     revenu: soit que la Republique ayt plusieurs bailliages, ou provinces: comme le
+                     Royaume de Perse, qui auoit six vingts gouvernemens, &amp; celuy d’Æthiopie,
+                     qui en a cinquante, que Paul Joue sans propos appelle royaumes: &amp;
+                     toutesfois il n’y a qu’un Roy, un Royaume, une Monarchie, une Republique, sous
+                     la puissance souveraine du grand Negus. Mais outre la souveraineté, il faut
                      qu’il y ait quelque chose de commun, &amp; de public: comme le domaine public,
-                     le thresor public, le pourpris de la cité, les rues, les murailles, les places,
-                     les temples, les marchez, les vsages, les loix, les coustumes, la iustice, les
+                     le tresor public, le pourpris de la cité, les rues, les murailles, les places,
+                     les temples, les marchez, les usages, les loix, les coustumes, la justice, les
                      loyers, les peines, &amp; autres choses semblabes, qui sont ou communes, ou
-                     publiques, ou l’vn &amp; l’autre ensemble. car ce n’est pas Repub. s'il n’y a
-                     rien de pu- <pb n="21"/> E droit gouuernement'du pere &amp; des enfans gift à
+                     publiques, ou l’un &amp; l’autre ensemble. car ce n’est pas Repub. s'il n’y a
+                     rien de public. <pb n="11" /> Il se peut faire aussi que la pluspart des heritages soient communs à tous 
+                     en general, &amp; la moindre partie propre à chacun en particulier, comme 
+                     en la division du territoire, que Romule occupa au tour de la ville de
+                     Rome qu’il avoit fondee, tout le plat pais n’avoit en pourpris que dix-
+                     huit mil journaux<note place="margin">Dionys. Halicarnass.
+                        lib.2.</note> de terre, qu'il divisa en trois parties egales: assignant
+                     un tiers pour les frais des sacrifices, l’autre pour le domaine de la Republique,
+                     le reste fut parti à trois mil citoyens, ramassez de toutes pieces, à
+                     chacun deux journaux: lequel partage demeura long temps en quelque
+                     contrepoix d’equalité: car mesme le dictateur Cincinnat, deux cens soixante
+                     ans apres,n’avoit<note place="marg">Plin.lib.7.</note> que deux journaux que luymesme labouroit. Mais
+                     en quelque sorte qu’on divise les terres, il ne se peut faire que tous les
+                     biens soient communs, comme Platon vouloit en sa premiere Republique,
+                     jusques aux femmes &amp; enfans, affin de bannir de sa cité ces deux
+                     mots TIEN &amp; MIEN, qui estoient, à son advis, cause de tous les maux
+                     &amp; ruines qui adviennent aux Republiques. Or il ne jugeoit pas que si
+                     cela avoit lieu, la seule marque de Republique seroit perdue : car il n’y a
+                     point de chose publique, s’il n'ya quelque chose de propre: &amp; ne se peut
+                     imaginer qu’il y ait rien commun, s'il n’y a rien particulier: non plus que
+                     si tous les citoyens estoient Roys, il n’y auroit point de Roy : ny d’harmonie
+                     aucune, si les accords divers, doucement entremeslez, qui rendent
+                     l’harmonie plaisante, estoient reduits à mesme son. Combiem que telle Republique
+                     seroit directement contraire à la loy de Dieu &amp; de nature, qui deteste
+                     non seulement les incestes, adulteres, &amp; paricides inevitables, si les femmes
+                     estoient communes: ains aussi de ravir, ni mesme de convoiter rien qui soit
+                     d’autruy. ou il appert evidemment, que les Republiques sont aussi
+                     ordonnees de Dieu, pour rendre à la Republique ce qui est public, &amp; à
+                     chacun ce qui luy est propre: joint aussi que telle communaute de toutes choses
+                     est impossible, &amp; incompatible avec le droict des familles. car si la
+                     famille &amp; la citem. le propre &amp; le commun, le public &amp; le particulier sont
+                     confus, il n’y a ny Republique, ny famille. Aussi Platon excellent en toute
+                     autre chose, apres avoir veu les inconveniens &amp; absurditez notables,
+                     que tiroit aptes soy telle communauté, s'en est sagement departi: renonçant
+                     taisiblement à la première Republique, pour donner lieu à la seconde.
+                     Et quoy qu’on die des Massagetes, que tout leur estoit commun,
+                     si est-ce qu’ils avoient la coupe, &amp; le cousteau, chacun à part soy, &amp; par
+                     consequent les habits &amp; vestements. autrement toufiours le plus fort
+                     eust desrobé le plus foible luy ostant ses robes, lequel mot signifie assez
+                     en nostre ligue, que les vestemens ont toufiours este propres à chacun,
+                     estant celuy qui desrobe appelle larron. Tout ainsi donc que la Republique
+                     est un droit gouvernement de plusieurs familles de ce qui leur
+                     est commun, avec puissance souveraine: aussi la famille est un droit
+                     gouvernement de plusieurs sugets sous, l’obeissance d'un chef de famille,
+                     &amp; de ce qui luy est propre. &amp; en cela gist la vraye difference de la Republique 
+                     <pb n="12" /> &amp; de la famille. car les chefs de famille ont le gouvernement de
+                     ce qui leur est propre : encores que chacune famille soit bien souvent, &amp;
+                     quasi par tout obligee, d’apporter, &amp; contribuer quelque chose de
+                     particulier en commun, soit par forme de tailles, ou de peages, ou d'imposts
+                     extraordinaires. Et se peut faire que tousles sugets d'une Republique
+                     viveront en commun, comme il se faisoit anciennement en Crete,&amp; en
+                     Lacedemonne, où les chefs de famille vivoient en compagnies de XV. ou
+                     XX. &amp; les femmes en leurs mesnages, &amp; les enfans ensemble. Et mesmes
+                     en la Republique ancienne de  Candie, tous les citoyens, hommes &amp;
+                     femmes, jeunes &amp; vieux, riches &amp; pauvres mangeoient &amp; beuvoient
+                     tousiours ensemble: &amp; neantmoins chacun avoit ses biens a part &amp;
+                     contribuoit chacun en commun pour sa despense : ce que les Anabaptistes
+                     vouloient pratiquer, &amp; commencerent en la ville de Munstre: à la charge
+                     que tous biens seroient communs, horsmis les femmes, &amp; les vestements:
+                     pensans mieux entretenir l'amitié &amp; concorde mutuelle entre
+                     eux: mais ils se trouverent bien loing de leur compte: car tant s’en faut que
+                     ceux là qui veulent que tout soit commun, ayent oste les querelles &amp;
+                     inimitiez, que mesmes ils chassent l'amour d'entre le mari &amp; la femme,
+                     l'affection des peres envers les enfans, la reverence des enfans envers les peres,
+                     &amp; la bienveillance des parens entr’eux, ostant la proximité de sang,
+                     qui les unit d’un plus estroit lien qui peut estre. car on scait assez qu'il n'y
+                     a point d’affection amiable, en ce qui est commun a tous: &amp; que la
+                     communauté tire apres soy tousjours des haines &amp; querelles, comme dit la
+                     loy. <note place="marg">l.cum pater.5.dulcissimis de legat. 2. l. 2. quando &amp; 
+                        quidbus quarta pars C.l. in re communi. vtbanorum prædior. l. sancimus. 
+                        (.sinautem, de donat. C. l. Lucius.).Caius, de legat 2.</note> encores plus s'abusent ceux là, qui pensent, que par le moyen de la
+                     communauté, les personnes &amp; les biens communs seroient plus soigneusement
+                     traittez: car on voit ordinairement les choses communes &amp;
+                     publiques mesprisees<note place="marg">l.2.quando &amp; quibus quarta 
+                        C.</note> d’un chacun, si ce n'est pour en tirer quelque
+                     profit en particulier: d'autant que la nature d'amour est telle, que plus elle
+                     est commune, &amp; moins a de vigueur: &amp; tout ainsi que les gros fleuves,
+                     qui portent les grands fardeaux, estans divisez, ne portent rien dutout:
+                     aussi l’amour espars à toutes personnes, &amp; à toutes choses, perd sa force
+                     &amp; sa vertu. Or mesnage, &amp; droit gouvernement d’iceluy fait la
+                     discretion &amp; division des biens, des femmes, des enfans, des serviteurs, d’une
+                     famille à l'autre, &amp; de ce qui est propre en particulier, à ce qui leur est
+                     commun en general, c’est à dire, au bien public. Et mesmes les
+                     magistrats en toute Republique bien ordonnee, ont soin &amp; souci du bien
+                     particulier des orphelins, des insensez, &amp; des prodigues: comme chose
+                     qui touche &amp; concerne le<note place="marg">l.t.de tutel.F.l.ius dandi. 
+                        eod.</note> public, affin que les biens soient conseruez à
+                     qui ils appartiennent, &amp; qu'ils ne soient dissipez: comme en cas pareil,
+                     les loix souvent sont desense d'acquerit, ou d'aliener, ou hypothequer son
+                     bien, sinon à certaines conditions, &amp; à certaines personnes : car la
+                     conseruation des biens d’un chacun en particulier, est la conservation du bien
+                     public: mais les loix sont publiques, &amp; communes, &amp; dependent seulement
+                     <pb n="13"/> du souuerain. Et neantmoins il n’est pas inconvenient, que les familles
+                     ayent quelques statuts particuliers pour eux &amp; leurs successeurs, faits par
+                     les anciens chefs de familles, &amp; ratifiez par les princes souverains: &amp; les 
+                     docteurs en loix en<note place="marg">Bart. in l. omnes populi, de iustitia. Bal. 
+                        in l. cùm omnes de Episcopis.Imola. &amp; Cuma.in l 3 de testam. Andr. ad Specul. 
+                        in tit. de testa. §. compendiose.Bal.in l.2.de constitu pecu. C. Innocent. in cap. 
+                        cùm accessissent, de constitut.</note> demeurent d’accord pour la pluspart. Nous en avons 
+                     l’exemple en la maison de Saxe, qui a plusieurs chefs de familles, qui ont certain 
+                     droit particulier, &amp; tout autre que les coustumes generales d’Almagne, 
+                     &amp; les coustumes particulieres du pays de Saxe. Et entre les Ducs de 
+                     Bavieres, &amp; les comtes Palatins, y a loix particulieres, tant pour le droit de 
+                     leurs successions, que pour le droit d'electorat, qui est alternatif en ces 
+                     deux maisons, par les anciens traitez de leurs predecesseurs, dequoy le Duc 
+                     de Baviere fist grande instance à la diette d’Auspurg, l'an M.D.LV. ce qui 
+                     n’est point és autres familles des electeurs. Et entre les maisons de Saxe &amp; 
+                     de Hes, y a traitez &amp; loix particulieres homologuees par les Empereurs Charles<note place="marg">
+                        l’an 1370.</note>IIII. &amp; Sigismond: <note place="marg">l’an 1431. 
+                           Decius consil.515.</note>&amp; entre les maisons d’Austriche &amp; de 
+                     Boheme, y a statut que l'une succedera à l’autre, à faute de masles, comme il est 
+                     avenu. Et sans aller plus loing qu’en ce Royaume, j’ay veu une charte de 
+                     la maison de Laval auctorisee par le Roy, &amp; homologuee au parlement 
+                     de Paris: qui est directement contraire aux coustumes d’Anjou, Bretaigne, 
+                     Mayne, où la pluspart des biens de ceste maison là sont situez, par laquelle 
+                     le premier heritier habile à succeder, doit tout avoir, &amp; n’est tenu de rien 
+                     bailler à ses coheritiers, sinon meubles, à la charge que l’heritier portera 
+                     le nom de Guy de Laval s'il est masle, ou de Guyoune si c’est une heritiere,
+                     &amp; les armes pleines. Et pareillement és maisons de la Baume, d’Albret, 
+                     de Rhodez, les filles par les traitez anciens eftoient excluses en ligne 
+                     directe &amp; collaterale, tant qu’il y avoit masles, parles traitez des anciens 
+                     Seigneurs, comme il s'est fait aussi en la maison de Savoye, qui use de la loy Salique.
+                     Telles loix des familles, que les Latins avoient aussi,&amp; les appelloient 
+                     ius familiare, sont faites par les chefs de familles, pour la conseruation 
+                     mutuelle de leurs biens, nom, &amp; marques anciennes: ce qui peut estre passe par 
+                     souffrance és grandes &amp; illuftres<note place="marg">Bal.in cap.I.§. mulier, 
+                        si de feudo controversia,per cap. I. de filiis natis ad morganaticam.</note> maisons: &amp; de fait ces traitez &amp; statuts 
+                     domestiques ont quelquefois conservé, non seulement les familles, ains 
+                     aussi l’estat de la Republique: qui fut cause qu'a la diette d’Auspurg faite 
+                     l’an M. D. LV. les Princes de l’Empire renouvellerent les anciens traitez 
+                     des familles, ayans bien apperceu, que par ce moyem l’Empire s'estoit 
+                     guarenty d’une ruine &amp; subversion totale de l'estat d’Alemagne. Mais cela ne 
+                     doit pas avoir lieu és autres maisons particulieres: affin que les loix
+                     publiques soient communes autant qu’il sera possible. Et ne faut pas 
+                     aisément endurer, que les traitez des familles derogent<note place="marg">Alexand. 
+                        in l. si non speciali. de testament.C.Bart. in l. I. quæ sit longa consuet. Iaso. 
+                        in. l. omnes populi.</note> aux coustumes du 
+                     pays: &amp; moins encores aux loix &amp; ordonnances<note place="marg">l.3.§. 
+                        diuus.de sepulchro violat. ff. l. nemo potest de legat.I.</note> generales. Et quelque 
+                     traité qu’on face contre les coustumes &amp; ordonnances, les successeurs n’y 
+                     sont point tenus, ny obligez comme de fait les successeurs de la maison 
+                     d’Albret, de Laval, &amp; de Montmorancy ont obtenu <note place="marg">l’an 1517. &amp; l’an 1551 1565.</note> arrests du 
+                     Parlement de Paris, contraires aux anciennes chartes de leurs predecesseurs, en
+                     <pb n="14"/> ce qu'elles estoient contraires aux coustumes des lieux, quand il fut question 
+                     des successions de Laval, du comté de Dreux, &amp; de Montmorancy, 
+                     qu’on vouloit faire indivisible contre la coustume du Vicomte de 
+                     Paris, car il faut que les traitez des familles soient sugets aux loix, tout 
+                     ainsi que les chefs de famille sont sugets aux Princes souverains. Voila 
+                     quant à la difference, &amp; similitude de la famille &amp; de la Republique en
+                     general: disons maintenant des membres de la famille.
+                     </p>
+               </div>
+               <div n="3" type="textpart" subtype="chapter">
+                  <head><hi rend="italic">CHAP. III</hi> DE LA PVISSANCE MARITALLE,
+                     &amp; s'il est expedient de renouveller la loy de repudiation</head>
+                     <p>TOVTE Republique, tout corps &amp; college, &amp; tout 
+                     mesnage se gouverne par commandement, &amp; obeissance: 
+                     quand la liberté naturelle, qu’un chacun a de vivre à 
+                     son plaisir, est rangee soubs la puissance d’autruy: &amp; 
+                     toute puissance de commander à autruy, est publique ou 
+                     particuliere. la puissance publique gist au souverain,
+                     qui donne la loy, ou en la personne des magistrats, qui ploient soubs la 
+                     loy, &amp; commandent aux autres magiftrats, &amp; aux particuliers. le 
+                     commandement particulier est aux chefs de mesnages, &amp; aux corps &amp; 
+                     colleges en general, sur chacun d’eux en particulier, &amp; à la moindre partie de 
+                     tout le corps en nom collectif. Le commandement des mesnages se prend 
+                     en quatre sortes, du mari envers la femme, du pere envers les enfans, du 
+                     seigneur envers les esclaves, du maistre envers les serviteurs. Et d’autant 
+                     que le droit gouvernement detoute Republique, corps &amp; colleges, 
+                     societez &amp; mesnages depend de sçauoir bien commander &amp; obeir: 
+                     nous dirons par ordre de la puissance de commander, suivant la division que 
+                     nous avons posee. Nous appelions liberté naturelle de n’estre suget, apres 
+                     Dieu, à homme<note place="marg">l. libertas. de statu 
+                        hom.</note> viuant, &amp; ne souffrir autre commandement que de 
+                     soymesme: c’est à dire, de la raison, quiest tousjours conforme à la volonté de 
+                     Dieu. Voila le premier &amp; le plus ancien commandement qui soit, c’est à 
+                     sçauoir, de la raison sus l’appetit bestial: &amp; auparauant qu’on puisse bien
+                     commander aux autres, il faut apprendre à commander à soymesme, rendant à la 
+                     raison la puissance de commander, &amp; aux appetits l’obeissance: &amp; en ceste 
+                     sorte chacun aura ce qui luy appartient, qui est la premiere &amp; la plus 
+                     belle justice qui soit: &amp; ce que les Hebrieux disoient en commun proverbe, 
+                     commencer charité par soymesme, qui n’est autre chose, que rendre les 
+                     ap¬petits ployables à la raison. c’est le premier commandement que Dieu a 
+                     establi par edit<note place="marg">Genes.cap.I.</note> expres, parlant à celuy qui premier tua son frere. Car le 
+                     commandement, qu’il avoit donné auparauant au mari par dessus la femme, 
+                     porte double sens, &amp; double commandement : l’un, qui est literal de la 
+                     puissance maritale: &amp; l’autre moral, qui est de l'ame sus le corps, de la 
+                     raison sus la cupidité, que l'escriture saincte appelle quasi tousiours 
+                     femme, &amp; principalement Salomon, qui semble à beaucoup de personnes,
+                     <pb n="15"/>estre ennemi juré des femmes, ausquelles il pensoit le moins quand il en 
+                     escrivoit, comme tresbien a monstré le sage Rabin<note place="marg">lib. I. nemore 
+                        anneuoquim.</note> Maymon. Or nous 
+                     laisserons aux Philosophes &amp; Theologiens le discours moral, &amp; 
+                     prendrons ce qui est politique, pour le regard de la puissance du mari sus la 
+                     femme, qui est la source &amp; origine de toute societé humaine. Quand je
+                     dy la femme, j'entens celle qui est legitime &amp; propre au mari, non pas la
+                     concubine, qui n’est point en la puissance du concubin: encores que la 
+                     loy des<note place="marg">l.in liberæ, de 
+                        concubinis.</note> Romains appelle mariage, &amp; non pas concubinage, si la concubine est 
+                     franche &amp; libre: ce que tous les peuples ont regetté à bon droit, 
+                     comme chose deshonneste, &amp; de mauvais exemple. aussi nous n’entendons 
+                     pas que la fiancee soit<note place="marg">l. 4. de condit. &amp; dem. l. ea quæ ad 
+                        munici.</note> sugete au fiancé, ny tenue de le suyvre: &amp; ne 
+                     peut le fiancé<note place="marg">cap. de illis &amp; ibi Hostieu. &amp; Panor. de 
+                        sponsa.</note> mettre la main sus elle, ce qui est permis<note place="marg">Bal. &amp; 
+                           Cune. in l. raptores. De Episcopis. Cinus in l.I. q. 2. de raptor. vir. C. Alexan. 
+                           in l. miles.§.qui iudicati. de re iudic.l. vlt. de libero homine. C.</note> au mari de droit 
+                     civil &amp;<note place="marg">ca. duo.33.q.2. cano sicut. 7. q. 
+                        I.</note> canon. &amp; si le fiancé avoit usé de main mise, &amp; ravi fa fiancee, il 
+                     doit estre puni capitalement en termes de<note place="marg">l.I. de raptor. vir. 
+                        C.</note> droit. Et ores que le consentement 
+                     des parties y soit, voire contract passe par parole de present, ce 
+                     que la loy appelle<note place="marg">l. nuptias de 
+                        regul.</note> mariage: si est-ce toutesois que la droite puissance 
+                     maritale n'est point acquise, si la femme n'a suivy le mari: veu que la pluspart
+                     des canonistes<note place="marg">cap. debitum.de bigam. Lombardus in. 4. sentential. 
+                        distinc. 30. &amp; 27 q. 2. Barbatias. consil. 2. col. 7. lib. 4. glo. in cap.ex 
+                        public. ext.de conuer. coniugali. Corne. consil. 248. lib. 2. Felin. in cap. tertio. 
+                        loco de præsump.</note> &amp; theologiens, quis'en sont croire en ceste matiere, 
+                     ont tenu qu’il n'y a point de mariage entre l’homme &amp; la femme, s’il ne 
+                     est consommé dé fait, ce que noz coustumes ont disertement articulé, 
+                     quand il est question des profits du mariage &amp; de la communauté. Mais 
+                     depuis que le mariage est consommé, la femme est soubs la puissance du 
+                     mari, si le mari n'est: esclave ou enfant de famille : auquel cas ny l’esclave, 
+                     ny l'enfant de famille, n’ont aucun<note place="marg"> toto tit.quib.mod.
+                        patr. pot.</note> commandement sus leurs femmes, 
+                     &amp; moins encores sus leurs enfans, qui demeurent tousjours soubs la 
+                     puissance de l'ayeul, encores qu’il ait emancipé son fils marié. Et la raison est, par 
+                     ce que lemesnage ne<note place="marg">l. pronuntiatio. de verb.
+                        sig.</note> soufre qu'un chef, qu’un maistre, qu’un seigneur: 
+                     autrement s’il y avoit plusieurs chefs, les commandemens seroient contraires, 
+                     &amp; la famille en trouble perpetuel. Et par ainsi la femme de condition 
+                     libre, se mariant à l’enfant de famille, est soubs la puissance du beau 
+                     pere: aussi bien que l’homme libre se mariant à la fille de famille, est en la 
+                     puissance d’autruy, s’il va demeurer en la maison du beau pere: bien que 
+                     en toute autre chose il joüisse de ses droits &amp; libertez. Mais il y a peu 
+                     d'apparence que les loix<note place="marg">l.I.§.I. de liberis ag.I.l.I.§. vlt.l. eum qui. §. si nupta. de iniuriis. l.I. sine &amp; sequent. de liberis exhibend.l.2.§. quod si in patris. l. quoties. solute. l. 3. l.nec inter. l. si vt propones. de dona. inter virum. C. l. filium. l. licet de collation. C. l. si vxor &amp; ibi Accurs. Cin. Bartol. Bald. Salic. Alberic. de condit. insertis.C.</note> Romaines veulent que la fille mariee, &amp; menee 
+                     en la maison du mari, si elle n'est emancipee du pere, ne soit point sugette 
+                     au mari, ains au pere. qui est contre la loy de nature, qui veut que chacun 
+                     soit maistre en sa maison, code dit Homere, affin qu’il puisse donner loy 
+                     à sa famille. aussï est-ce contre la loy de Dieu, qui<note place="marg">Genes. 
+                        cap. I.</note> veut, que la femme 
+                     laisse pere &amp; mere pour suyvre le mari: &amp; donne puissance au<note place="marg">Numer.
+                        cap.30. Augustini q.59. cap. 4. Num. ca. voluit.33.q.5.</note> mari des vœuz 
+                     de la femme. aussi les loix Romaines n’ont aucun lieu pour ce regard, &amp; 
+                     moins en ce Royaume qu’en lieu du monde : car la coustume<note place="marg">Faber. 
+                        in. §. I. institute. de S. C. Tertul.&amp; §.2. quod cum eo qui in alie. Masuer. 
+                        titul de iniuriis. §. item filia. &amp; in tit. de doce. §. item de consuetudine.</note> generale 
+                     exempte la femme mariee de la puissance du pere: qui estoit semblable 
+                     en Lacedemone, comme dit Plutarque aux Laconiques, où la femme
+                     <pb n="16"/>mariee parle ainsi. Quand j’estois fille, je faisois les commandemens de mon 
+                     pere: mais puisque je suis mariee, c’est au mari, a qui je dois l'obeissance. 
+                     autrement la femme souleroit aux pieds les commandemens du mari, &amp; le
+                     quitteroit quand bon luy sembleroit, prenant le pere à garend. les<note place="marg">excipiunt 
+                        concubitum &amp; operas. Accurs in d.l. si vxorem. &amp; in d.§.I.institut.de S.C. 
+                        Tertul.ex l. sicut deoperis libert. Bart. Imol. Castrens.in l. rei iudicatio. cum 
+                        seq.soluto matr.</note> interpretes 
+                     excusans les loix Romaines, y ont adiousté plusieurs exceptions, 
+                     pour les inconveniens qui resulteroient, si la femme n’estoit sugette au mari, 
+                     encores qu’elle ne fust emancipee du pere. Mais hors la puissance 
+                     paternelle, toutes les loix divines &amp; humaines sont d’accordence poinct là, que 
+                     la femme doit obeissance aux commandemens du mari, s'ils ne sont illicites. 
+                     Il n'y a qu'un docteur<note place="marg">Andr. ad Specul. tit. qui filij. 
+                        sint legit.</note> Italien, qui a tenu, que la femme n’est point en la 
+                     puissance du mari: mais tout ainsi qu’il n’a ny auctorité, ny raison de son 
+                     dire, aussi n’y qui l’ayt suivi. Car il est tout certain, que par la 
+                     loy de<note place="marg">Dionys. Halicar. lib.2.</note> Romule, non seulement le mari avoit tout commandement sus 
+                     la femme, ains aussi, pouvoir de la faire mourir, sans forme, ny figure de 
+                     proces en quatre cas; c’est à sçauoir, pour adulter, pour avoir supposé 
+                     un ensant, pour avoir de <note place="marg">Tacit. 
+                        lib.2.</note> faulses clefs, &amp; beu du vin. Peu a peu la rigueur 
+                     des loix &amp; coustumes fut moderee, &amp; la peine de l’adultere permis à la 
+                     discretion des parens de la femme: ce qui fut renouvelle, &amp; pratiqué au 
+                     temps de Tibere l’Empereur: parce que le mari repudiant sa femme 
+                     pour adultere, ou se voyant attaint de mesme crime, le cas demeuroit impuni, 
+                     au grand deshonneur des parens, qui bien souvent faisoient mourir<note place="marg">Flor.
+                        cap.49.</note> <note place="marg">titul.xi.&amp; 9. Institut.</note>ou 
+                     bannissoient la femme. Et combien que la puissance des maris se 
+                    diminua bien fort: si est-ce neantmoins par la harangue, que Marc<note place="marg">Livi.
+                     lib.35.</note> Caton le 
+                    Censeur fist au peuple pour la defense de la loy Oppia, qui retranchoit 
+                    aux femmes les habits de couleur, &amp; defendoit de porter plus d’une once 
+                    d’or, il apert, que les femmes estoient toute leur vie en la tutelle de leurs 
+                    peres, freres, maris, &amp; parens, de sorte qu’elles ne pouvoient contracter, 
+                    ny faire aucun acte legitime, sans l’auctorité, &amp; volonté d’iceux. 
+                    Caton vivoit environ l’an D.L. apres la loy de Romulus. &amp; deux cens ans 
+                    apres Ulpian Jurisconsulte dit, qu’on don¬ne tuteurs aux femmes, &amp; 
+                    aux pupilles: &amp; quand elles estoient mariees, qu’elles estoient in 
+                    manu viri, c’eft à dire, en la puissance du mari. Et si on dit qu’il a divisé 
+                    le tiltre des personnes, quae sunt in potestate, d’avec celles quae 
+                    sunt in manu, cela ne conclud pas, que la femme ne feust en la puissance 
+                    du mari : car cela sest fait pour monstrer la difference du pouvoir 
+                    que le mari a sus la femme, &amp; le pere sus les enfans, &amp; le seigneur sus les 
+                    esclaves. &amp; qui doubte que ce mot, manus, ne signifie pouvoir, 
+                    auctorité, puissance? les<note place="marg">Genes.24.Exod.</note> Hebrieux, <note place="marg">Numeri. 
+                       XI.</note> Grecs &amp; Latins en ont tousjours ainsi 
+                    usé,quand ils disent la main du Roy, &amp; in manus hostium venire, &amp; 
+                    mesmes Feste <note place="marg"> in verbo Emancipatum.</note>Pompe parlant du mari qui prend femme, dit mancipare, 
+                    qui est un mot propre aux esclaves. duquel mot usent plusieurs 
+                    coustumes de ce Royaume, où il est question d’emanciper les femmes. Et 
+                    pour monstrer, que la puissance des maris sus les femmes, a esté generale
+                     <pb n="17"/>à tous les peuples, je n’en mettray que deux ou trois exemples. Olore 
+                    Roy de Thrace contraignit<note place="marg">Iustin lib.32.</note> les Daces, pour avoir esté vaincus des 
+                    en¬nemis, de servir à leurs femmes, en signe de servitude extreme. &amp; de la 
+                    plusgrande contumelie dont il se peut adviser. Aussi lisons nous, que par les 
+                    loix des<note place="marg">In legib. Rotaris ac Luitprandi, &amp; in legib. 
+                        Longobard.cap.I.&amp; vlt. &amp; penult tit.qualiter mulier. liber. alien. 
+                        petiniss.</note> Lombars la femme estoit en mesme sugetion que les anciennes 
+                    Romaines: &amp; les maris avoient toute puissance de la vie &amp; de la mort, de 
+                    laquelle ils usoient encore au temps de<note place="marg">Accurs. &amp; Bald. 
+                       in l. velles de reuocan. donat C.</note> Balde, il n’ya. pas c c LX. ans. Quand 
+                    à nos ancestres Gaulois, y eut-il jamais en lieu du monde plus grande 
+                    puissance sus les femmes, qu’ils ont eu? Cæsar<note place="marg">lib.6. belli 
+                       Gallici.</note> le monstre bien en ses 
+                    memoires, ou il dit, queles Gaulois avoient toute puissance de la vie &amp; 
+                    de la mort sus leurs femmes &amp; enfans, tout ainsi que sus leurs esclaues. 
+                    &amp; sil y avoit tant soit peu de soupçon que le mari fust mort, par le fait de la 
+                    femme, les parens la prenoient, &amp; luy bailloient la question, &amp; si elle estoit 
+                    convaincue,  ils la faisoient mourir cruellement, sans l’auctorité du 
+                    magistrat. mais la cause estoit bien plus apparente, que pour avoir beu 
+                    du vin, qui suffisoit au mari par la loy des Romains, pour faire mourir sa 
+                    femme: &amp; en cela tous les anciens<note place="marg">Dionys. Halicar. lib. 
+                       2. Plin. lib. 14. cap. 13. Valer. de institute. antiq. Cicero de natu. deor. 
+                       lib. 3 Plutar. in problemat. Rom. cap., 6. Arnob. lib. 2. aduersus gentes. 
+                       Tertul.in apologet. cap 6. Gellius lib. 10. c. 23. &amp; Alcimus Siculus 
+                       apud Athenæum.</note> s'accordent. Qui n’estoit pas 
+                    seulement la coustume des Romains, ains aussi Theophraste escript, que les 
+                    anciens habitans de Marseille en Prouence, &amp; les Milesiens usoient de 
+                    mesme loy contre les femmes, qui avoient beu du vin: jugeans que les 
+                    appetits immoderez de la femme sugette au vin, la feroient aussi tost 
+                    yvrongne, &amp; puis adultere. Aussi trouvons nous,que la puissance donnee 
+                    au mari, par la loy de Romulus, de faire mourir sa femme pour cause 
+                    d'adultere sans auctorité du magistrat, estoit commune àtoute la<note place="marg">Polyb. 
+                       lib. 2. Lysias de Eratosthenis cæde.</note> Grece 
+                    aussi bien comme aux Romains. car la loy<note place="marg">l. I. ad l. Iul. 
+                       de adult.</note> Julia, qui permet 
+                    seulement au pere<note place="marg">l. matito. l. patri. 
+                       eod.</note> de tuer sa fille avec l’adultere trouvez sus le fait, &amp; non 
+                    autrement, a esté faite par Auguste sept cens ans apres la loy de Romulus. 
+                    &amp; neantmoins la loy Julia a permis aussi au<note place="marg">d l.
+                       marito.</note>mari d’en user comme le pere 
+                    envers certaines personnes exceptees: punissant le mari bien legerement,
+                    <note place="marg">l. si adulterium. §. Imperatores eod. l. I. ad l. Cornel.
+                       de sicar.l. Gracchus. eod. C.l.3.§. si maritus ad 
+                       Silanian.</note> qui avroit passé outre l’exception de là loy. Mais la peine publique 
+                     ne deroge point à la puissance du mari en autre sorte de corrections, 
+                     que le mari avoit sus la femme, outre la peine de mort, qui pour ce 
+                     regard luy estoit interdite. Depuis Theodora Imperatrice, <note place="marg">auth. hoc iure. de adult.C.</note>ayant toute 
+                     puissance sus l’Empereur Iustinian, homme hebeté de son sens, fist 
+                     toutes les loix qu'elle peut à l’avantage des femmes, &amp; entre autres mua la 
+                     peine de mort en une peine d’infamie, comme firent aussi anciennement les 
+                     Atheniens, <note place="marg">Demosthe. contra Neæram.</note> <note place="marg">Faber. 
+                        in. l. 2. quæ sit longa consuet. C. Benedic. in cap. Raynutius, in verbo cuidam. 
+                        Nu. 63.</note>excommunians les adulteres, avec note d’infamie, ainsi que nous
+                     lisons aux plaidoyez de Demosthene: qui semble chose ridicule, attendu 
+                     que l’infamiene peut oster l’honneur à celle qui l'aperdu, &amp; qui est du tout 
+                     dehontee, rellement quelle demeure quasi sans peine, mesmement en ce 
+                     Royaume, d’un crime que la loy de Dieu<note place="marg">Levit. 20. Daniel. 13. 
+                        Deutero.24.</note> punist de la plus rigoureuse 
+                     mort qui fust lors, c’eft à sçauoir, <note place="marg">Rabi Maymo li 3. 
+                        nemore aneuoquim ait crudelissimum omnium mortis genus esse.</note> de lapidation: &amp; que du moins les 
+                     Ægyptiens<note place="marg">Diodor.lib.I.</note> punissoient, en coupant le nez à la femme, &amp; les parties honteuses à
+                     <pb n="18"/>l’homme. Es autres crimes qui touchent plus le mari que le public, &amp; qui ne 
+                     meritent point la mort, tous<note place="marg">ca. duo ista. 23. q. 4. Accurs. in l. et si. §.vlt.ad. l. aquil. &amp; in authent. vt liceat matri. . quia vero. Bal. in l. filius. de patria potest. C. &amp; in l. nec patronus. de operis libert. C. &amp; consil. 176. Panor. in c. ex transmissa. de restitute. spoliat Bart. in l. iubemus de repud. C.</note> sont d’accord, que le maria puissance de 
+                     chastier moderément sa femme. Et affin que les maris n’abusassent de la 
+                     puissance que la loy leur donnoit sur les femmes, elles avoient contre les maris 
+                     action en cas de mauvais traittement, <note place="marg">Quintil. lib. 7. c. 4. l.
+                        5. de pactis doctal. l. viro &amp; vxori. soluto.</note> ou de mauvaises meurs, que depuis 
+                     Iustiniam<note place="marg">l. vlt. de repud. C. 4 Andr in addit. ad specul. 
+                        rubric. de iniuriis ex l. 2. l erum amotar.l. no debet de dolo. l. si quis 
+                        vxori. de furtis. Alexand. in l. diuortio. . si fundum. col. 4. solute. Ancaran. 
+                        consil. 408.</note> osta: ordonnant quelques peines civiles &amp; pecuniaires à prendre 
+                     sus les droicts des conventions matrimoniales à celuy qui auroit 
+                     donné cause de separation. qui sont principalement fondees sus l’adultere, &amp; 
+                     l'empoisonnement essayé, &amp; n’ayant sorti effect. Mais nonobstant 
+                     l’ordonnance de Iustinian, il est permis à la femme injuriee &amp; traittee 
+                     indignement par son mari, demander separation: toutefois on ne doit 
+                     permettre l’action d’injures entre le mari &amp; la femme (comme quelques <note place="marg">l. 
+                        I. &amp; 2. rerum amot. l. aduersus de crimi. expilatæ hæredit.C.</note> uns 
+                     ont voulu)pour l’honneur &amp; dignité du mariage, que la loy a tant estimé, 
+                     qu’elle ne veut pas que le mari ny mesmes un tiers, puisse avoir action 
+                     de larcin contre la femme, encores qu'elle eust expilé tous les meubles 
+                     du mari. Mais d’autant qu’il n’ya point d’amour plus grand que celuy 
+                     du mariage, comme dit Artemidore, aussi la hayne y est la plus capitale, 
+                     si une sois elle prend racine. Et pour ceste cause la loy de Dieu, touchant 
+                     les separations, qui depuis fut commune à tous les peuples, &amp; est 
+                     encores à present vite en Afrique, &amp; en tout l'Orient, permettoit au mari de 
+                     repudier sa femme, si elle ne luy plaisoit, à la charge qu'il ne pourroit 
+                     jamais la reprendre, mais bien se remarier à une autre. qui estoit un moyen 
+                     pourtenir en ceruelle les femmes superbes: &amp; aux fascheux maris de ne 
+                     trouver pasaysement femme, si on cognoissoit qu’ils eussent repudié la 
+                     leur sans juste cause. Et si on dit, qu’il ny a point d’apparence de repudier 
+                     sa femme sans cause: je me rapporteroy à l'usage commun: mais il n’y a 
+                     rien plus pernicieux, que contraindre les parties de vivre ensemble, s’ils 
+                     ne disent la cause de la separation qu’ils demandent, &amp; qu’elle soit bien 
+                     verifiee: car en ce faisiant, l’honneur des parties est au hazard qui seroit 
+                     couvert, quand la separation ne porteroit point de cause: comme faisoient 
+                     anciennement, &amp; font encores à present les Hebrieux, ainsi qu’on peut 
+                     voir en leurs pandectes, &amp; mesmement du Jurisconsulte Moyse Cotsi, 
+                     au chap. du retrenchement<note place="marg">cap. HEBEREW TEXT id est, 
+                        abscissionis.</note> (ils appellent ainsi la repudiation) où il 
+                     met l’acte de repudiation, que le Rabin Jeiel Parisien, lors que les Juifs 
+                     demeuroient en Paris, enuoya a sa femme le mardi XXIX. Octobre, l’an de 
+                     la creation du mode cinq mil<note place="marg">id est, anno Christi. 1240.</note> dix huict: où l’acte ne porte aucune 
+                     cause de repudiation. l’en trouue une autre en l’epitome des pandectes 
+                     Hebraiques, recueillie par le Jurisconsulte Moyse de Maymon, au titre des 
+                     femmes<note place="marg">cap. HEBREW TEXT</note> chap.III. qui fut fait en Chaldee. où le juge des lieux, ayant veu 
+                     la procuration speciale, &amp; l'acte de celuy qui avoit repudié sa femme en 
+                     presence de trois tesmoins, adjouste ces mots, qu'il l'a repudiee purement 
+                     &amp; simplement &amp; sans y adiouster cause, luy permettant de se remarier à 
+                     qui bon luy sembleroit, &amp; le juge en decerne acte aux parties. En quoy
+                     <pb n="19"/>faisant, la femme n'est point deshonoree, &amp; peut trouver autre parti sortable 
+                     à sa qualité. Et de fait, anciennement les Romains ne mettoient 
+                     aucune cause, comme on peut voir quand Paul<note place="marg">Plutar. in 
+                        Æmilio.</note> Æmil repudia sa femme, 
+                     qu’il confessoit estre fort sage &amp; honneste, &amp; de maison fort noble, &amp; de 
+                     laquelle il avoit plusieurs beaux enfans. &amp; lors que les parés de la femme 
+                     s’en plaignirent a luy, voulans sçavoir la cause, il leur monstra son 
+                     soulier, qui estoit beau, &amp; bien fait, mais qu’il n’y auoit que luy qui sentist 
+                     l’endroit ou il blessoit. &amp; si la cause ne semble suffisante au juge, ou qu'elle 
+                     ne soit bien verifiee, il faut que les parties vivent ensemble, ayant a tout 
+                     heure l’un &amp; l’autre l'obiect de son mal devant ses yeux. Cela faict, que se 
+                     voyans reduits en extreme servitude, crainte, &amp; discord perpetuel, les 
+                     adulteres, &amp; bien souvent les meurtres, &amp; empoisonnemens s’en 
+                     ensuivent, &amp; qui sont pour la pluspart incognus aux hommes : comme il fut 
+                     decouvert en Romme, auparavant que la coustume fut pratiquee de 
+                     repudier sa femme (car le premier fut Spurius Carnilius, environ cinq cens 
+                     ans apres la fondation de Romme) une femme estant surprinse, &amp; 
+                     condamnee d’avoir empoisonné son mari, elle en accusa d’autres, qui par 
+                     compagnie &amp; communication entre elles en accuserent jusques à 
+                     soixante &amp; dix de mesme crime, qui furent toutes execurees. chose qui est 
+                     encores plus à craindre, ou il n'y a aucun moyen de repudier l’un l'autre. 
+                     Caries Empereurs Romains ayans voulu oster la facilité des repudiations, 
+                     &amp; corriger<note place="marg">l. consensus, de repud. C.l. vlt. eod. 
+                        Bald. in l. I. . quod scimus de latina. libert. Panor. consil. 328.
+                        lib.4. Iaso &amp; Alexand. in l. si ab hostib. solute matri.</note> l’ancienne coustume, n’ont ordonné autre peine que la 
+                     perte des conventions matrimoniales, à celuy qui seroit cause du diuorce: 
+                     encores Anastase<note place="marg">l. si constant, de 
+                        repud</note> permit la separation du consentement des deux 
+                     parties sans peine : ce que Justinian<note place="marg">l. authore quod hodie.
+                        eod.</note> a defendu. chacun peut juger en 
+                     soymesme, si l’un est plus expedient que l’autre. Mais quelque changement 
+                     &amp; varieté de loix qui puisse estre, il n’ya jamais eu loy ny coustume, qui 
+                     ayt exempté la femme de l'obeissance, &amp; non seulement de l'obeissance, 
+                     ains aussi de la reverence<note place="marg">l. I. quod autem de rei vxoriæ. 
+                        C l. alia. § vbi. soluto.</note> qu’elle doit au mari, &amp; telle que la loy<note place="marg">l. 
+                        generaliter de in ius vocand Decius in l.vlt. eod. in fine. C.</note> ne 
+                     permettoit pas à la femme d’appeller le mari en jugement sans permission 
+                     du magistrat. Or tout ainsi qu’il n’y a rien plus grand en ce monde, 
+                     comme dit Euripide, ny plus necessaire pour la conservation des 
+                     Republiques,que l’obeissance de la femme au mari: aussi le mari ne doit pas 
+                     sous ombre de la puissance maritale, faire une esclave de sa femme: 
+                     combien que Marc Varron veut que les esclaves soient plustost corrigez de 
+                     paroles que de batures, à plus forte raison la femme, que la loy<note place="marg">l. 
+                        aduersus, de crimine expilatæ. C.</note> appelle 
+                     compagne de la maison divine &amp; humaine : comme nous monstre assez 
+                     Homere<note place="marg">lib.I.Iliad.</note> introduisant Jupiter, qui reprend sa femme, &amp; la voyant 
+                     rebelle, use de menaces, &amp; ne passe point outre. Et mesme Caton, qu’on 
+                     disoit estre l'ennemy juré des femmes, ne frappa<note place="marg">in vita 
+                        Catonis censorij.Plutar.</note> jamais la sienne, tenant 
+                     cela pour sacrilege: mais bien scavoit il garder le rang &amp; la dignité 
+                     maritale, qui retient la femme en obeissance: ce que ne fera jamais celuy, qui 
+                     de maistre s’est faict compagnon, puis serviteur, &amp; de serviteur esclave:
+                     <pb n="20"/>comme on reprochoit<note place="marg">Arist. lib.2. 10. lit. Plutar. 
+                        in Laconic.</note> aux Lacedemoniens, qui appelloient leurs femmes 
+                     maistresses &amp; dames: ce que faisoient bien aussi les Romains, <note place="marg">Tranquil. 
+                        in Claudio. s. vxorem de legat. 3. lititia. §. vxor. de auro &amp; arg.</note> ayans 
+                     ja perdu la dignité maritale, &amp; la marque virile de commander aux femmes.
+                     Combien que celles, qui prennent si grand plaisir à commander 
+                     aux maris effeminez, ressemblent à ceux, qui ayment mieux guider les 
+                     aveugles, que de suivre les sages &amp; clairvoyans. Or la loy de Dieu &amp; la 
+                     langue saincte, qui a nomme toutes choses selon sa vraye nature &amp; 
+                     proprieté, appelle le mari Bahal, c’est à dire, le seigneur &amp; maistre, pour 
+                     monstrer qu’à luy appartient de commander. Auffi les loix de tous les 
+                     peuples, pour abaisser le cueur des femmes, &amp; faire cognoistre aux hommes, 
+                     qu’ils doivent passer les femmes en sagesse &amp; vertu, ont ordonné, que 
+                     l'honneur &amp; splendeur de la femme dependroit du mari. de sorte que 
+                     si le mari est noble, il annoblist la femme<note place="marg">l. fœminæ de senat 
+                        l. cum te. l. vlt. de nupt. l. vlt. de incolis. C. Bartol. Fulgo. Castrens. 
+                        Iaso in l vlt. de verb. signif Guido papa consi. 217 &amp; decif.delph. 196 
+                        394.379.</note> roturiere: &amp; si la damoiselle 
+                     espouse un roturier, elle perd<note place="marg">Bart.in. l I. de dig. C. 
+                        Castrens. in d. l. vlt de verb.sig Corne.consil 55.col.4.lib. I &amp; consil.26.
+                        lib.4. </note> sa noblesse. jaçoit qu’il y eust anciennement 
+                     quelques peuples, qui tiroient leur noblesse &amp; qualité des meres, &amp; non 
+                     pas des peres, comme<note place="marg"> l. I. ad municipal. Plutar. de claris 
+                        mulierib. Plutar. de claris mulierib.</note> les Lyciens, Delphiens, Xantiques, Illienses, &amp; 
+                     quelques peuples d’Amasie, pour l’incertitude des peres : ou pour a¬voir perdu 
+                     toute la noblesse en guerre, comme en Champagne, où les fem¬mes 
+                     nobles annoblissent leurs maris roturiers, &amp; leurs enfans pour la cause que 
+                     j’ay dit. combien que tous les Jurisconsultes<note place="marg">Bart.Angel.Plat. 
+                        in l. exemplo.de decurio.C.Barbat.consil.57. Benedic. I cap. Rayutius prin. 
+                        nu. 15.Arctin &amp; Felin in cap. super eo. de testib.</note> tiennent, qu’il ne se peut faire 
+                     par coustume, obstant le droit de tous les peuples, comme dit 
+                     Herodote: <note place="marg">lib.3 Bal in l.vlt.de servis 
+                        fugit. </note> qui veut que la femme tienne<note place="marg"> d l.fœminæ de 
+                        senator.</note> la condition, &amp; suive la qualité 
+                     du mari, &amp; le païs, <note place="marg">Accurs. Bartol. Angel. Plate. in l. 
+                        cives de incolis. C. Baal. consil. 139. lib 5. </note> &amp; la famille, <note place="marg">l.
+                           cuicunque. de re military. C. Corne. consil. 41. col. vlt. 
+                           lib.I.</note>, &amp; le domicile, <note place="marg">l cum quædam de 
+                           iurisdic ff.l. exigere. de iudic. l. ea que. l. vlt ad 
+                           municip.</note> &amp; l’origine: &amp; ores 
+                     que le mari fust banni &amp; vagabond, neantmoins la femme le doit<note place="marg">l.origine.&amp; 
+                        ibi glo. eod Bal. consil. 351. col 2. lib. I. &amp; consil. 411. lib. I.</note> suivre, 
+                     &amp; en cela tous les Jurisconsultes &amp; Canonistes s'accordent. <note place="marg">Odofred in 
+                        l.I.de vxor.milit.C.Cune9 &amp; Albericus in l. oberuare de offi. proconsul.Bal.Roma Angel.
+                        Alexand in l. si cum dotem.§. si marius. soluto. Innocent. Hostiens. Panor. Antoni. 
+                        Cardinalis vterque in cap. de illis desponsa &amp; in cap. I. de coniugiis lepros</note> Aussi 
+                     toutes les loix &amp; coustumes ont faict le mari maistre des actions de la 
+                     femme, &amp; de l’usufruict de tous les biens qui luy escheent, <note place="marg">l. in rebus 
+                        de iure dot.C.l.si ego.§.dotis eod.ff 4.l iurisgentium. §. si plagij. de pactis. l 
+                        generaliter de verb.obligat.</note> &amp; ne 
+                     permettent que la femme puisse ester en jugement, soit en demandant ou 
+                     desendant sans l'auctorité du mari ou du juge à son refus : qui sont tous 
+                     argumens indubitables, pour monstrer l’auctorité, puissance, &amp; 
+                     commandement, que le mari a sus la femme de droit divin, &amp; humain : &amp; la 
+                     sugetion, reverence, &amp; obeissance, que doit la femme au mari en tout 
+                     honneur &amp; chose licite. Je scay qu’il y a plusieurs clauses &amp; conventions 
+                     és traittez de mariages, où les femmes ont stipulé, quelles ne seroient en 
+                     rien sugettes aux maris: mais telles pactions &amp; stipulations ne peuvent 
+                     empescher la puissance &amp; auctorité du mari, attendu qu’elles sont 
+                     contraires au droit divin &amp; humain, &amp; à l’honnesteté publique, &amp; sont de
+                     nul effect &amp; valeur, de sorte mesme, que les sermens n’y peuvent obliger les maris.
+                  </p>
+               </div>
+               <div n="4" type="textpart" subtype="chapter">
+                  <head><hi rend="italic">CHAP.IIII.</hi> ? DE LA PUISSANCE PATERNELLE, &amp;
+                     s'il est bon d'en user comme les anciens Romains</head>
+                     <p><pb n="21"/> LE droit gouuernement'du pere &amp; des enfans gift à
                      bien vser de la puissance, que Dieu a donné au pere sur ses en- fans propres,
                      ou la loy sur les enfans adoptez, &amp; en l’obeissance, amour, &amp; reuerence
                      des enfans enuers les peres. Le mot de puissance, est propre à tous ceux qui
@@ -1087,7 +1621,7 @@
                      pas estaindre le droit des adoptions, &amp; pour le moins laisser au pere
                      adoptif la puissance paternelle, pour tenir en obeissance le fils adopté. Voila
                      quant au sécond poinct de la famille touchant le gouuernement du pere enuers
-                     fès enfans: disons du troisîesme. </p>
+                     fès enfans: disons du troisîesme.</p>
                </div>
                <div n="5" type="textpart" subtype="chapter">
                   <head><hi rend="italic"> Chap. V.</hi> De la Puissance Seigneuriale, &amp; s’il
