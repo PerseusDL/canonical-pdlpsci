@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+   <teiHeader xml:lang="eng">
       <fileDesc>
          <titleStmt>
-            <title>De Republica Libri Sex</title>
-            <author>Bodin, Jean</author>
+            <title xml:lang="lat">De Republica Libri Sex</title>
+            <author>Jean Bodin</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Perseus Project</publisher>
@@ -15,12 +15,12 @@
             <listBibl>
                <biblStruct>
                   <monogr>
-                     <title>De Republica Libri Sex</title>    
-                     <title type="sub">Latine ab auctore redditi, multo quam antea locupletiores, 
+                     <title xml:lang="lat">De Republica Libri Sex</title>    
+                     <title type="sub" xml:lang="lat">Latine ab auctore redditi, multo quam antea locupletiores, 
                         cum indice locupletissimo</title>
-                     <author>Bodin, Jean</author>
+                     <author>Jean Bodin</author>
                      <imprint>
-                        <publisher>e typographro Nicolai Hoffmanni, impensa haeredum Petri Fischeri</publisher>
+                        <publisher xml:lang="lat">e typographo Nicolai Hoffmanni, impensa haeredum Petri Fischeri</publisher>
                         <pubPlace>Frankfurt</pubPlace>
                         <date>1586</date><!-- 1609? -->
                      </imprint>
