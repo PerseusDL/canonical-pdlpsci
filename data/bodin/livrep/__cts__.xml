@@ -7,12 +7,12 @@
         <ti:description xml:lang="mul">Bodin, Jean. Les six livres de la republique. Paris: Chez Iacques du Puys, Libraire iuré, à la Samaritaine, 1577.</ti:description>
     </ti:edition>
     <ti:translation urn="urn:cts:pdlpsci:bodin.livrep.perseus-eng1" workUrn="urn:cts:pdlpsci:bodin.livrep" xml:lang="eng">
-        <ti:label xml:lang="eng">The Six Books of a Commonweale</ti:label>
+        <ti:label xml:lang="eng">The six books of a common-weale</ti:label>
         <ti:description xml:lang="eng">Bodin, Jean. The six books of a common-weale. Knolles, Richard, translator. London: G. Bishop, 1606.</ti:description>
     </ti:translation>
     <ti:translation urn="urn:cts:pdlpsci:bodin.livrep.perseus-lat1" workUrn="urn:cts:pdlpsci:bodin.livrep" xml:lang="lat">
         <ti:label xml:lang="lat">De Republica Libri Sex</ti:label>
-        <ti:description xml:lang="mul">Bodin, Jean.  De Republica Libri Sex Latine ab auctore redditi, multo quam antea locupletiores, 
+        <ti:description xml:lang="mul">Bodin, Jean. De Republica Libri Sex Latine ab auctore redditi, multo quam antea locupletiores, 
             cum indice locupletissimo.  Frankfurt: e typographro Nicolai Hoffmanni, impensa haeredum Petri Fischeri, 1586 (1609?)</ti:description>
      </ti:translation>
 
