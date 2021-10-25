@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title/>
+            <title>De Republica Libri Sex</title>
             <author>Bodin, Jean</author>
          </titleStmt>
          <publicationStmt>
@@ -12,13 +12,22 @@
             <pubPlace>Medford, MA</pubPlace>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
-               <title/>
-               <author>Bodin, Jean</author>
-               <publisher/>
-               <pubPlace/>
-               <date/>
-            </bibl>
+            <listBibl>
+               <biblStruct>
+                  <monogr>
+                     <title>De Republica Libri Sex</title>    
+                     <title type="sub">Latine ab auctore redditi, multo quam antea locupletiores, 
+                        cum indice locupletissimo</title>
+                     <author>Bodin, Jean</author>
+                     <imprint>
+                        <publisher>e typographro Nicolai Hoffmanni, impensa haeredum Petri Fischeri</publisher>
+                        <pubPlace>Frankfurt</pubPlace>
+                        <date>1586</date><!-- 1609? -->
+                     </imprint>
+                  </monogr>
+                  <ref target="https://archive.org/details/ioanbodiniandeg00bodi">Internet Archive</ref>    
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

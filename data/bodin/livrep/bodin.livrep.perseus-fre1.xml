@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title/>
+            <title>Les six livres de la république</title>
             <author>Bodin, Jean</author>
          </titleStmt>
          <publicationStmt>
@@ -12,13 +12,21 @@
             <pubPlace>Medford, MA</pubPlace>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
-               <title/>
-               <author>Bodin, Jean</author>
-               <publisher/>
-               <pubPlace/>
-               <date/>
-            </bibl>
+            <listBibl>
+               <biblStruct>
+                  <monogr>
+                     <title>Les six livres de la republique</title>    
+                     <author>Bodin, Jean</author>
+                     <imprint>
+                        <publisher>
+                           Chez Iacques du Puys, Libraire iuré, à la Samaritaine</publisher>
+                        <pubPlace>Paris</pubPlace>
+                        <date>1577</date>
+                     </imprint>
+                  </monogr>
+                  <ref target="https://archive.org/details/lessixliuresdela00bodi">Internet Archive</ref>    
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
