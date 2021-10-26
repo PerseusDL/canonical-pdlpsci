@@ -5,11 +5,38 @@
          <titleStmt>
             <title xml:lang="fre">Les six livres de la république</title>
             <author>Jean Bodin</author>
+            <funder>Tufts Innovates!</funder>
+            <respStmt>
+               <resp>Published original versions of the electronic texts</resp>
+               <orgName ref="https://as.tufts.edu/politicalscience/people/faculty/evrigenis">Tufts University, Department of Political Science</orgName>
+               <persName role="principal">Ioannis D. Evrigenis</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Technical Consultant</resp>
+               <orgName>Tufts University, Perseus Digital Library</orgName>
+               <persName role="principal">Bridget Almas</persName>
+            </respStmt>
+            <respStmt>
+               <persName>William Donovan</persName>
+               <orgName>Tufts University</orgName>
+               <resp>Digital editing and proofreading</resp>
+            </respStmt> 
+            <respStmt>
+               <persName>Michael Hawley</persName>
+               <orgName>Tufts University</orgName>
+               <resp>Digital editing and proofreading</resp>
+            </respStmt> 
+            <respStmt>
+               <persName>Alexander Trubowitz</persName>
+               <orgName>Tufts University</orgName>
+               <resp>Digital editing and proofreading</resp>
+            </respStmt> 
          </titleStmt>
          <publicationStmt>
-            <publisher>Perseus Project</publisher>
-            <publisher>Trustees of Tufts University</publisher>
+            <publisher>Trustees of Tufts University</publisher>            
+            <publisher>Perseus Digital Library</publisher>
             <pubPlace>Medford, MA</pubPlace>
+            <idno type="filename">bodin.livrep.perseus-fre1.xml</idno>            
          </publicationStmt>
          <sourceDesc>
             <listBibl>
