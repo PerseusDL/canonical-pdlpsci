@@ -7,14 +7,15 @@
             <author>Jean Bodin</author>
             <funder>Tufts Innovates!</funder>
             <respStmt>
-               <resp>Published original versions of the electronic texts</resp>
-               <orgName ref="https://as.tufts.edu/politicalscience/people/faculty/evrigenis">Tufts University, Department of Political Science</orgName>
                <persName role="principal">Ioannis D. Evrigenis</persName>
+               <orgName ref="https://as.tufts.edu/politicalscience/people/faculty/evrigenis">
+                  Tufts University, Department of Political Science</orgName>    
+               <resp>Published original versions of the electronic texts</resp>
             </respStmt>
             <respStmt>
-               <resp>Technical Consultant</resp>
-               <orgName>Tufts University, Perseus Digital Library</orgName>
                <persName role="principal">Bridget Almas</persName>
+               <orgName>Tufts University, Perseus Digital Library</orgName>              
+               <resp>Technical Consultant</resp>               
             </respStmt>
             <respStmt>
                <persName>William Donovan</persName>
