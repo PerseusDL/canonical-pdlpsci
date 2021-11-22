@@ -1,12 +1,12 @@
 language: python
 
 python:
-  - '3.5'
+  - '3.7'
 
 install:
-  - pip3 install HookTest>=1.0.0
+  - pip3 install HookTest
 
-script: hooktest ./ --scheme epidoc --workers 3 --verbose 10 --manifest --console table --allowfailure --hookUI "http://ci.perseids.org/api/hook/v2.0/user/repositories/PerseusDL/canonical-pdlpsci"
+script: hooktest ./ --scheme epidoc --workers 3 --verbose 10 --manifest --console table --allowfailure --hookUI "https://ci.perseids.org/api/hook/v2.0/user/repositories/PerseusDL/canonical-pdlpsci"
 
 before_deploy:
   - hooktest-build --travis ./
@@ -24,7 +24,6 @@ before_deploy:
 deploy:
   provider: releases
   api_key: $GITPERM
-  skip_cleanup: true
   on:
     repo: PerseusDL/canonical-pdlpsci
     branch: master
