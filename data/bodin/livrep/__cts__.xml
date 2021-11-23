@@ -2,6 +2,7 @@
     <ti:title xml:lang="fre">Les six livres de la république</ti:title>    
     <ti:title xml:lang="lat">De Republica Libri Sex</ti:title>
     <ti:title xml:lang="eng">The six books of a common-weale</ti:title>
+    
     <ti:edition urn="urn:cts:pdlpsci:bodin.livrep.perseus-fre1" workUrn="urn:cts:pdlpsci:bodin.livrep" xml:lang="fre">
         <ti:label xml:lang="fre">Les six livres de la république</ti:label>
         <ti:description xml:lang="mul">Bodin, Jean. Les six livres de la republique. Paris: Chez Iacques du Puys, Libraire iuré, à la Samaritaine, 1577.</ti:description>
