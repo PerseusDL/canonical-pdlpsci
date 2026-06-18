@@ -17,6 +17,6 @@ jobs:
           python-version: '3.11'
     # Display Version
       - name: Install Hooktest
-        run: pip3 install HookTest
+        run: pip3 install "hooktest<2.0.0"
       - name: Run Hooktest
         run: hooktest ./ --console table --scheme epidoc --workers 3 --verbose 5 --countword
